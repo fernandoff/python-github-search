@@ -1,0 +1,900 @@
+haplokuon/netDxf|https://github.com/haplokuon/netDxf|.net dxf Reader-Writer
+bjnortier/dxf|https://github.com/bjnortier/dxf|DXF parser for node/browser
+LibreCAD/LibreCAD|https://github.com/LibreCAD/LibreCAD|LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.
+ixmilia/dxf|https://github.com/ixmilia/dxf|
+mozman/ezdxf|https://github.com/mozman/ezdxf|Python interface to DXF
+gdsestimating/three-dxf|https://github.com/gdsestimating/three-dxf|A dxf viewer for the browser using three.js
+gdsestimating/dxf-parser|https://github.com/gdsestimating/dxf-parser|A javascript parser for DXF files. It reads DXF file strings into one large javascript object with more readable properties and a more logical structure.
+fantasyboy/DxfTools|https://github.com/fantasyboy/DxfTools|DNF游戏插件
+e3donline/ToolChanger|https://github.com/e3donline/ToolChanger|STPs / STLs / DXFs / PDFs
+davedoesdev/dxf|https://github.com/davedoesdev/dxf|Docker registry v2 client in Python
+mondalaci/dxf2svg2kicad|https://github.com/mondalaci/dxf2svg2kicad|DXF to SVG to KICAD_PCB converter webapp that runs purely on the client side
+ognjen-petrovic/js-dxf|https://github.com/ognjen-petrovic/js-dxf|JavaScript DXF writer
+yofu/dxf|https://github.com/yofu/dxf|dxf for golang
+workflo/dxf2gcode|https://github.com/workflo/dxf2gcode|Fork of dxf2gcode -- a DXF to G-Code converter
+mkernel/DXFLib|https://github.com/mkernel/DXFLib|C# Library for reading (and writing in future) DXF files
+codelibs/libdxfrw|https://github.com/codelibs/libdxfrw|C++ library to read and write DXF/DWG files
+mozman/dxfwrite|https://github.com/mozman/dxfwrite|Outdated DXF R12 writer, please switch to ezdxf
+apendua/dxf2svg|https://github.com/apendua/dxf2svg|Basic DXF to SVG converter
+cos/dxflibrary|https://github.com/cos/dxflibrary|A DXF library written in C#. Currenly it contains only DXF constructing and generator classes.
+LibreCAD/LibreCAD_3|https://github.com/LibreCAD/LibreCAD_3|LibreCAD 3 is a next generation 2D CAD application written to be modular, with a core independent from GUI toolkits. Scripting is possible with Lua. 
+yorikvanhavre/Draft-dxf-importer|https://github.com/yorikvanhavre/Draft-dxf-importer|Libraries to enable dxf support in FreeCAD
+mozman/dxfgrabber|https://github.com/mozman/dxfgrabber|Outdated DXF reader, please switch to ezdxf
+e3donline/Motion-System|https://github.com/e3donline/Motion-System|STPs / STLs / DXFs / PDFs
+erikwilson/import-dxf|https://github.com/erikwilson/import-dxf|EAGLE ULP for importing vector graphics
+nycresistor/SDXF|https://github.com/nycresistor/SDXF|DXF library for python
+codingdna2/WpfDxfViewer|https://github.com/codingdna2/WpfDxfViewer|A POC sample to visualize some simple DXF entities in a WPF Canvas
+brad/Inkscape-OpenSCAD-DXF-Export|https://github.com/brad/Inkscape-OpenSCAD-DXF-Export|Inkscape plugin that exports DXF files usable by OpenSCAD
+TimChen44/Unity3D-DXF-Viewer|https://github.com/TimChen44/Unity3D-DXF-Viewer|使用Unity3D显示DXF文件的图形
+LaserWeb/deprecated-LaserWeb3|https://github.com/LaserWeb/deprecated-LaserWeb3|Open Source Laser Cutter / Engraver software.  Supports gcode,  svg,  dxf,  stl, png,  jpg,  bmp
+anycad/dxfViewer|https://github.com/anycad/dxfViewer|dxf file format viewer by C#
+idhyt/CentOS-DXF|https://github.com/idhyt/CentOS-DXF|
+anycad/dxfViewer|https://github.com/anycad/dxfViewer|dxf file format viewer by C#
+svenhb/GRBL-Plotter|https://github.com/svenhb/GRBL-Plotter|A GCode sender for up to two GRBL controller. SVG, DXF, HPGL import. 6 axis DRO. 
+enjoping/DXFighter|https://github.com/enjoping/DXFighter|A new DXF writer and reader in PHP which outputs AC1012 (R15) DXF files
+NB70/sketchup-dxf-stl-exporter|https://github.com/NB70/sketchup-dxf-stl-exporter|Plugin to export from Sketchup to DXF or STL files
+anisbet/dxf2svg|https://github.com/anisbet/dxf2svg|Java application to convert Autocad DXF files to SVG.
+winder/svgToDxf|https://github.com/winder/svgToDxf|Shell script that uses inkscape and pstoedit to convert svgToDxf
+mfarquhar/netDXF|https://github.com/mfarquhar/netDXF|This is a fork of an older version of netDXF to support AUTOCAD 12 and 14
+cnc-club/dxf2gcode|https://github.com/cnc-club/dxf2gcode|
+iamjinlei/dxf2png|https://github.com/iamjinlei/dxf2png|headless dxf to bitmap converter
+sandyre/libopencad|https://github.com/sandyre/libopencad|OpenSource library under X/MIT license to work with CAD files (DWG/DXF).
+mariolukas/FabScan-Case|https://github.com/mariolukas/FabScan-Case|The current FabScan cases.
+active-programming/DXF-Creator-for-PHP|https://github.com/active-programming/DXF-Creator-for-PHP|A simple DXF creator for PHP
+bfoz/dxf-ruby|https://github.com/bfoz/dxf-ruby|Tools for working with the popular DXF file format
+johannesboyne/node-dxf|https://github.com/johannesboyne/node-dxf|Parse DXF files to get polygons and text elements.
+my88480/DXFOperator|https://github.com/my88480/DXFOperator|This Project is to write AutoCAD DXF file based on JAVA  without AutoCAD environment.Compatible with AutoCAD R12 or above.
+clothbot/dxflib|https://github.com/clothbot/dxflib|For GPL Use of RibbonSoft.com's dxflib - http://www.ribbonsoft.com/en/what-is-dxflib
+Titifonky/DXFLibrary|https://github.com/Titifonky/DXFLibrary|Bibliothèque DXF permettant la création de fichier
+khoaho/dxf.js|https://github.com/khoaho/dxf.js|AutoCAD DXF in JavaScript
+wanttobeno/dwg2dxf|https://github.com/wanttobeno/dwg2dxf|dwg2dxf - Program to convert dwg/dxf to dxf(ascii & binary) 
+rena0157/Dxflib|https://github.com/rena0157/Dxflib|A C# Dxf Library
+bert/libdxf|https://github.com/bert/libdxf|Library with DXF related functions (work in progress)
+panjh/dxflib|https://github.com/panjh/dxflib|git source of dxflib-3.7.5
+pandysong/dxf2kicad_mod|https://github.com/pandysong/dxf2kicad_mod|create kicad footprint from dxf file
+wanttobeno/DXF-Viewer|https://github.com/wanttobeno/DXF-Viewer|DXF Viewer
+rena0157/dxflib-|https://github.com/rena0157/dxflib-|An AutoCAD DXF Library
+OpenBuilds/OpenBuilds-CAM|https://github.com/OpenBuilds/OpenBuilds-CAM|Online CNC CAM System
+ststeiger/SvgConverter|https://github.com/ststeiger/SvgConverter|Convert dxf to SVG
+thomasdesmoulin/dxf-parsing|https://github.com/thomasdesmoulin/dxf-parsing|Parsing of dxf files
+luanshixia/AutoCADCodePack|https://github.com/luanshixia/AutoCADCodePack|AutoCAD Code Pack: A powerful library that helps you to develop AutoCAD plugins using the AutoCAD .NET API
+qcad/qcad|https://github.com/qcad/qcad|QCAD - The Open Source 2D CAD. QCAD is a crossplatform CAD solution for Windows, Mac OS X and Linux. It supports the DXF format and optionally the DWG format (through a proprietary plugin).
+VVS1864/open_dxf_lib|https://github.com/VVS1864/open_dxf_lib|Open library for read and write .dxf files (autocad-compatible). 
+davetowey/three-dxf-loader|https://github.com/davetowey/three-dxf-loader|A DXF Loader for three.js
+harrykeen18/dxf-three.js-JSON_translator|https://github.com/harrykeen18/dxf-three.js-JSON_translator|dxf to usable webgl translator
+neo2019/dxfviewer|https://github.com/neo2019/dxfviewer|Parse the CAD DXF file and display it with qt.
+jscad/io|https://github.com/jscad/io|DEPRECATED : Input Output format handling for the JSCAD project
+rpaloschi/dxf-go|https://github.com/rpaloschi/dxf-go|DXF Library for Golang
+fuzziness/kabeja|https://github.com/fuzziness/kabeja|NO LONGER MANTAINED! Kabeja is a Java library for parsing, processing and converting Autodesk's DXF format. You can use Kabeja from the CommandLine or embed into your application. All parsed data are accessible with the DOM-like API. The processing system allows you to process, filter (e.g. XSLT) and convert DXF drafts to different output formats (SVG, JPEG, PNG, TIFF, PDF, XML).
+liwei1024/DXF-|https://github.com/liwei1024/DXF-|
+mattvenn/mazepuzzlebox|https://github.com/mattvenn/mazepuzzlebox|mazepuzzlebox DXF generation and website
+davidworkman9/drawingtotext|https://github.com/davidworkman9/drawingtotext|Extracts the text from DWG and DXF files.
+opendesk/fusion360-dxf-export|https://github.com/opendesk/fusion360-dxf-export|Generates an Opendesk dxf drawing from a Fusion360 model.
+randyp/svg-to-dxf|https://github.com/randyp/svg-to-dxf|
+ixmilia/dxf-rs|https://github.com/ixmilia/dxf-rs|
+jrbedard/3d-converter|https://github.com/jrbedard/3d-converter|:globe_with_meridians: Fast 3D file format converter in C++ supporting OBJ, 3DS, MA, MB, XSI, LWO, DXF, STL, MAT, DAE.
+johannesboyne/node-dxf-to-png|https://github.com/johannesboyne/node-dxf-to-png|Transform a DXF into a PNG
+jethornton/DXFtoGcode|https://github.com/jethornton/DXFtoGcode|Convert DXF files to LinuxCNC G code
+data-exchange/dxfile|https://github.com/data-exchange/dxfile|Subclasses the h5py module for interacting with Data Exchange files.
+billhart/dxf2gcodecli|https://github.com/billhart/dxf2gcodecli|Command line version of df2gcode with contours for drawing machine (no Qt dependence)
+dnanexus/dxfuse|https://github.com/dnanexus/dxfuse|FUSE filesystem for the DNAnexus storage system
+supipd/dxf2tbl2svg|https://github.com/supipd/dxf2tbl2svg|convert AutoCAD DXF file to tables and subsequently to SVG
+sigdeletras/dxf2gmlcatastro|https://github.com/sigdeletras/dxf2gmlcatastro|Script en Python para convertir un DFX a  GML según las especificaciones de la Dirección General de Catastro.
+lautr3k/odmt|https://github.com/lautr3k/odmt|OpenSCAD DXF Merge Tool (odmt)
+zamtmn/zcad|https://github.com/zamtmn/zcad|Simple CAD program
+aewallin/truetype-tracer|https://github.com/aewallin/truetype-tracer|c++ port of truetype-tracer (font to G-code/DXF converter)
+gaganjyot/dxfrwInterface|https://github.com/gaganjyot/dxfrwInterface|Interface for using LibDXFrw 
+kuna/dxfreetype|https://github.com/kuna/dxfreetype|Freetype Library for DirectX9
+HoldOrigin/DXF|https://github.com/HoldOrigin/DXF|java解析DXF文件
+dough-com/ember-dxfeed|https://github.com/dough-com/ember-dxfeed|
+cutec-chris/script-plugin-dxfwrite|https://github.com/cutec-chris/script-plugin-dxfwrite|DXF Writing Support in Canvas Style from Promet Scripts
+cutec-chris/script-plugin-dxfwrite|https://github.com/cutec-chris/script-plugin-dxfwrite|DXF Writing Support in Canvas Style from Promet Scripts
+tapnair/DXFer|https://github.com/tapnair/DXFer|DXF Utility for Fusion 360
+danheeks/dxfconv|https://github.com/danheeks/dxfconv|This will be a command line program, reading a dxf file and saving a converted dxf file, with splines converted to biarcs.
+zecruel/CadZinho|https://github.com/zecruel/CadZinho|Minimalist computer aided design (CAD) software
+apgoetz/dxf2brd|https://github.com/apgoetz/dxf2brd|Helper application to convert Design Interchange Files to KiCAD Board Files
+andrewhodel/dxfToMillcrum|https://github.com/andrewhodel/dxfToMillcrum|a Python command line tool for converting a DXF file to a Millcrum file
+oryxr/dxf2gcode|https://github.com/oryxr/dxf2gcode|
+dxFeed/dxfeed-net-api|https://github.com/dxFeed/dxfeed-net-api|dxFeed .NET API
+attraktorhh/dxf2gcode_laser|https://github.com/attraktorhh/dxf2gcode_laser|dxf2gcode from https://code.google.com/p/dxf2gcode configured for the attraktor lasercutter
+xiekw2010/DXFPSLabel|https://github.com/xiekw2010/DXFPSLabel|A label shows app's current FPS when needed(In UITrackingRunLoopMode)
+JamesBremner/DXF_Viewer|https://github.com/JamesBremner/DXF_Viewer|A simple DXF File viewer
+verve111/alfresco_cad_support|https://github.com/verve111/alfresco_cad_support|Alfresco CAD (dxf, dwg) preview support
+openhie/openinfoman-dhis|https://github.com/openhie/openinfoman-dhis|XQuery Libary for DHIS2 and DXF support using CSD
+AutodeskFusion360/DXFSplineToPolyline_Python|https://github.com/AutodeskFusion360/DXFSplineToPolyline_Python|Add-In that can export DXF of sketch that converts spline to polyline - written in Python
+conda-forge/dxfile-feedstock|https://github.com/conda-forge/dxfile-feedstock|A conda-smithy repository for dxfile.
+i3berlin/printer|https://github.com/i3berlin/printer|hardware references, bom, 3d models, dxf 
+ZililuYa/dxf|https://github.com/ZililuYa/dxf|✨✨ ES6版 dxf文件 转换成 svg文件 🎉🎉
+Poofjunior/dxf2gcode|https://github.com/Poofjunior/dxf2gcode|a fork of the original sourceforge project for direct compatibility with LinuxCNC enabled laser cutters.
+heartworm/py_gear_gen|https://github.com/heartworm/py_gear_gen|A python involute spur gear generator, with SVG and DXF output. 
+easyw/kicadpcb2dxf|https://github.com/easyw/kicadpcb2dxf|dxf exporter for mechanical layers of a kicad_pcb board
+MrBramme/Fusion360-DXFexporter|https://github.com/MrBramme/Fusion360-DXFexporter|An addin for Fusion 360 to export all selected sketches as DXF at once
+gmischler/Dxf2rad-Radout|https://github.com/gmischler/Dxf2rad-Radout|Export geometry from Autocad/Intellicad and translate from DXF files to Radiance scene description files.
+gredblue/TeighaExporter|https://github.com/gredblue/TeighaExporter|Export ".dwg",".dxf" or ".dgn" file to PDF or WebGl format
+umluizlima/dxf-ruler-generator|https://github.com/umluizlima/dxf-ruler-generator|Quickly create rulers for digital fabrication.
+keijiro/Dxft|https://github.com/keijiro/Dxft|r
+rvt/dxfrwtest|https://github.com/rvt/dxfrwtest|
+eb4890/dxflibswig|https://github.com/eb4890/dxflibswig|Swig bindings for python
+conda-forge/dxfgrabber-feedstock|https://github.com/conda-forge/dxfgrabber-feedstock|A conda-smithy repository for dxfgrabber.
+bausk/DXFMapper|https://github.com/bausk/DXFMapper|DXFMapper is an experiment in geometric mapping using the model-based paradigm. Uses Python scripting.
+okosan/XDxfGen|https://github.com/okosan/XDxfGen|very basic DXF drawing library
+my88480/DXFR2007|https://github.com/my88480/DXFR2007|This project focuses on AutoCAD DXF file creation without AutoCAD environment. compatible with AutoCAD R2007 and above. It is a tiny part of Industry 4.0 platform.
+ailersic/im2glib|https://github.com/ailersic/im2glib|Python library for the conversion of raster and DXF images into G code for CNC machines.
+Loriowar/dxf_io|https://github.com/Loriowar/dxf_io|Ruby gem for read and write DXF files
+selenur/ToolsGenGkode|https://github.com/selenur/ToolsGenGkode|Tools for generate G-kode from image, text, and PLT, DXF files
+dxFeed/dxfeed-c-api|https://github.com/dxFeed/dxfeed-c-api|dxFeed C API
+ExpertTools/DXF-Viewer|https://github.com/ExpertTools/DXF-Viewer|
+Rhoban/Projekt|https://github.com/Rhoban/Projekt|Generate DXF, SVG and PLT for laser cutting & engraving from STLs
+team-codecraft/dxftojson|https://github.com/team-codecraft/dxftojson|convert dxf file into json format
+dxFeed/dxfeed-python-api|https://github.com/dxFeed/dxfeed-python-api|dxFeed Python API based on dxFeed C API
+jmccormick00/dxf_viewer|https://github.com/jmccormick00/dxf_viewer|Python script for loading in geometry from a dxf file and displaying it in 3D with openGL
+shinobushiva/dxf-tiip-view-rails|https://github.com/shinobushiva/dxf-tiip-view-rails|
+suifan/dxf|https://github.com/suifan/dxf|大屏可视化
+aramisf/Pyser|https://github.com/aramisf/Pyser|Python Parser for DXF files
+opme/dxf2gcode|https://github.com/opme/dxf2gcode|
+buxizhizhou/read_dxf_data-java-netbeans-v0|https://github.com/buxizhizhou/read_dxf_data-java-netbeans-v0|Read data from DXF files.
+completesolar/DxfCreator|https://github.com/completesolar/DxfCreator|
+KirillTemnov/sb-dxf|https://github.com/KirillTemnov/sb-dxf|DXF files generator on lisp
+chapulincatastral/generador-gml|https://github.com/chapulincatastral/generador-gml|Script AutoCad AutoLISP para la generación de ficheros Catastro GML INSPIRE de parcela catastral y de edificio. Etiquetas: gml, parcela catastral, sec, inspire, autolisp, autocad, catastro, cadastre, notarías, notarios, registros, registradores, dxf, exportar, coordinación, cartografía
+Zigazou/svg2dxf|https://github.com/Zigazou/svg2dxf|Converts SVG from Inkscape to DXF files for OpenSCAD
+skvamme/HTML-vector-graphics|https://github.com/skvamme/HTML-vector-graphics|Convert a DXF vector graphics file to HTML 5 <canvas> and/or <svg> drawing primitives
+etoele/etoele-minicade|https://github.com/etoele/etoele-minicade|3D files & DXF for DIY arcade bartop
+1944GPW/ptap2dxf|https://github.com/1944GPW/ptap2dxf|PTAP2DXF - Generate CNC-cut paper tapes from .PTAP or other binaries on a home stencil cutting machine 
+treeDiM/DXF2Diecut|https://github.com/treeDiM/DXF2Diecut|Simple command line executable that helps converting a dxf file to either cf2 or ai (format used for diecut documents)
+uberCad/uberCad|https://github.com/uberCad/uberCad|uberCad - is in-browser DXF editor
+111minutes/DXFoundation|https://github.com/111minutes/DXFoundation|
+xanderdin/LibreCAD_dxf2pdf_standalone|https://github.com/xanderdin/LibreCAD_dxf2pdf_standalone|Standalone extracted version of LibreCAD's dxf2pdf tool that could be run without running X server.
+jimfoltz/ruby-dxf-reader|https://github.com/jimfoltz/ruby-dxf-reader|Parse DXF files into Ruby objects
+Akaur/libdxf_2D|https://github.com/Akaur/libdxf_2D|Create 2D drawings in DXF format
+kgamiel/dxf|https://github.com/kgamiel/dxf|Library for handling DXF files
+Brock123/3D-Model-to-Pdf-Conversion|https://github.com/Brock123/3D-Model-to-Pdf-Conversion|Autodesk 3D Files(DWG & DXF) to PDF Conversion and Automation using free Autodesk DWG True Viewer 2016 and Autolisp Scripts
+megablastinc/DXF|https://github.com/megablastinc/DXF|
+sun-love/DXF|https://github.com/sun-love/DXF|DXF文件读取与显示
+cancerak/dxf|https://github.com/cancerak/dxf|Using ezdxf package to optimize my everyday work.
+DanXiaofeng/dxf|https://github.com/DanXiaofeng/dxf|
+sasaki-trombone/dxf|https://github.com/sasaki-trombone/dxf|DXFファイルのフォーマットについてのまとめと、JavaScriptでDXFファイルを出力したときのメモ
+GuJun1990/DXF|https://github.com/GuJun1990/DXF|
+ted-n/dxf|https://github.com/ted-n/dxf|DXF Builder/Parser
+pile-contributors/dxf|https://github.com/pile-contributors/dxf|Simple pile for interacting with (Autocad's) dxf files
+DevinderKaur/dxf|https://github.com/DevinderKaur/dxf|
+PriorityQueue/dxf|https://github.com/PriorityQueue/dxf|
+khmoh/DXF|https://github.com/khmoh/DXF|
+wygits/dxf|https://github.com/wygits/dxf|
+1971738522/dxf|https://github.com/1971738522/dxf|
+Nottingham82/dxf|https://github.com/Nottingham82/dxf|
+royzou3/dxf|https://github.com/royzou3/dxf|dxflib
+DXF1021/dxf|https://github.com/DXF1021/dxf|
+Fenix173/dxf|https://github.com/Fenix173/dxf|
+denisenkom/dxf2kampy|https://github.com/denisenkom/dxf2kampy|Autocad DXF -> Kamea (semil.ru) converter Python
+dalpras/DXF2PNG8|https://github.com/dalpras/DXF2PNG8|This applications helps in making a batch conversion from files in DXF to PNG8 with Adobe Illustrator.
+Huai-Dc/dxf2Three|https://github.com/Huai-Dc/dxf2Three|commit
+MagicDogGuo/DxfToMobel|https://github.com/MagicDogGuo/DxfToMobel|DXF轉進Unity建立模型
+kuboja/dxf2fcs|https://github.com/kuboja/dxf2fcs|Tool for converting dxf to FemCAD script
+groblerjf/DXF2GCODE|https://github.com/groblerjf/DXF2GCODE|Originally did this in Matlab. I am now doing it in Julia to learn the language. Interface that reads a DXF file and converts it into a usable GCODE file (with cutting lead-in and lead-out) for 2.5D plasma cutting table. (Original https://github.com/groblerjf/PlasmaNestingProgram)
+barongeng/DXFileExplorer|https://github.com/barongeng/DXFileExplorer|The file manager tool, supports plugins, themes, async operations
+JRForman/dxfAssy|https://github.com/JRForman/dxfAssy|Create .dxf files from Autodesk Inventor sssemblies
+imsuneran/dxfReader|https://github.com/imsuneran/dxfReader|
+OnRoadZy/DxfViewer|https://github.com/OnRoadZy/DxfViewer|DXF文件阅读器。
+Huai-Dc/dxfFile|https://github.com/Huai-Dc/dxfFile|
+EasyID/DXFToMotion|https://github.com/EasyID/DXFToMotion|
+likouzxc/dxf4j|https://github.com/likouzxc/dxf4j|将dxf文件进行java转义
+DHaylock/ofxDxfExport|https://github.com/DHaylock/ofxDxfExport|Dxf File Generator
+massudaw/dxf|https://github.com/massudaw/dxf|Autocad DXF parser 
+ylshan/dxf2gerber|https://github.com/ylshan/dxf2gerber|Convert DXF to getber
+xiekw2010/DXFileManager|https://github.com/xiekw2010/DXFileManager|A file manager wrapper the NSFileManager
+EZUSoft/AnotherDXF2Shape|https://github.com/EZUSoft/AnotherDXF2Shape|QGIS PlugIN Add DXF to QGIS , optional georeferencing, optional convert DXF to Shape
+Avnerus/dxf2papercraftUV|https://github.com/Avnerus/dxf2papercraftUV|An extension of dx2papercraft that generates a JSON with UV Mapping of the object based on the unfolding
+jbeda/dxf2svg|https://github.com/jbeda/dxf2svg|
+B3Partners/b3p-gt2-dxf|https://github.com/B3Partners/b3p-gt2-dxf|B3P GIS Suite geotool2 datastore dxf
+LionelDrew/dxf2gerber|https://github.com/LionelDrew/dxf2gerber|Convert a DXF drawing into Gerber Files. Using Qt to test this project.
+ilorevilo/dxf2gerber|https://github.com/ilorevilo/dxf2gerber|fork of https://sourceforge.net/projects/dxf2gbr/
+ixmilia/dxf-go|https://github.com/ixmilia/dxf-go|
+jes1510/DXF-library|https://github.com/jes1510/DXF-library|DXF library of various parts.  Raspberry Pi and Arduino are included
+texane/dxf2parts|https://github.com/texane/dxf2parts|turn a DXF into individual parts, one per layer with name in 0 .. N
+rgriege/orchid|https://github.com/rgriege/orchid|Basic DXF writer in C
+ntd/adg|https://github.com/ntd/adg|A canvas for generating technical drawings
+uncreatednet/DXF-library|https://github.com/uncreatednet/DXF-library|A repository of DXF blocks / Coleção de blocos 2D no formato DXF
+onishy/import-dxf-polygonfills|https://github.com/onishy/import-dxf-polygonfills|EAGLE ULP for importing vector graphics - with "Import polylines as" option
+nextflow-io/jdk7-dxfs|https://github.com/nextflow-io/jdk7-dxfs|Java NIO2 file system provider for DNAnexus cloud storage
+martinhansdk/DXFFaces|https://github.com/martinhansdk/DXFFaces|Autodesk Fusion 360 plugin for more convenient export of designs into DXF for laser cutting and CNC machining
+inventables/dxfimport|https://github.com/inventables/dxfimport|DXF File Import Easel App
+oddworldng/dwg_to_dxf|https://github.com/oddworldng/dwg_to_dxf|Python script to convert DWG (AutoCAD) to DXF file using TeighaFileConverter (ODA File Converter)
+opme/camnest|https://github.com/opme/camnest|A software to generate G-code for laser / plasma cutting with nesting capabilities. Also useful for mill toolpath generation. It can be also used as an Autocad's DXF viewer. 
+shinobushiva/dxf-tiip-view|https://github.com/shinobushiva/dxf-tiip-view|DXF-TIIP View
+dmkent/mpldxf|https://github.com/dmkent/mpldxf|Matplotlib backend for DXF
+enocholumide/Laserscan-to-dxf|https://github.com/enocholumide/Laserscan-to-dxf|Laserscan-to-dxf
+leonplust/brlcadDXF|https://github.com/leonplust/brlcadDXF|This is a portion of BRL-CAD code base that is related to DXF import/export
+wangzhuanxing123/dxf-fill|https://github.com/wangzhuanxing123/dxf-fill|可进行dxf图形的自动填充，采用LabVIEW编写（Dxf graphics can be automatically filled, written in LabVIEW）
+nuwanperera/YAMLtoDXFParser|https://github.com/nuwanperera/YAMLtoDXFParser|Prototype YAML to DXF parser
+YMSpektor/dxf-doc|https://github.com/YMSpektor/dxf-doc|JavaScript library for writing DXF files
+lukas2511/DXF-Parser|https://github.com/lukas2511/DXF-Parser|Dies ist ein schlechtes Beispiel für einen DXF Parser für LuaCrumbs
+dr-jerry/iPath|https://github.com/dr-jerry/iPath|iPath is a javascript library for scripting reactive vector graphics, usable as SVG in your website or as DXF for CNC templates.
+liwei1024/Dxf-Helper|https://github.com/liwei1024/Dxf-Helper|
+6d7367/lines-dxf-export-blender-addon|https://github.com/6d7367/lines-dxf-export-blender-addon|Export selected edges to DXF
+kazhida/secords_kotlin|https://github.com/kazhida/secords_kotlin|DXF Viewer for Android Tablet
+Mambix/co2tools|https://github.com/Mambix/co2tools|Easily convert 2D DXF drawings into 3D models
+alexey-petrakov/dxf_to_hpgl|https://github.com/alexey-petrakov/dxf_to_hpgl|
+blackholexyg/2015-FEA-2DXFEM|https://github.com/blackholexyg/2015-FEA-2DXFEM|Matlab program for 2D XFEM
+h4ck3rm1k3/gdal_dxfdwg_no_oda|https://github.com/h4ck3rm1k3/gdal_dxfdwg_no_oda|branch of the gdal dxfdwg code to remove ODA code 
+Bunjin/DXF|https://github.com/Bunjin/DXF|
+mnasoft/dxf|https://github.com/mnasoft/dxf|
+SWITCHSCIENCE/eagle-cream-dxf|https://github.com/SWITCHSCIENCE/eagle-cream-dxf|EAGLE ulp script to export the cream layers to DXF files.
+nkoster/dxf|https://github.com/nkoster/dxf|Drawings
+OlozTarr/dxf|https://github.com/OlozTarr/dxf|dxf
+WaterBlade/dxf|https://github.com/WaterBlade/dxf|
+smidyo/vectorexpress-api|https://github.com/smidyo/vectorexpress-api|Vector Express is a free service and API for converting vector files.
+Karthick-VakilSearch/xyz|https://github.com/Karthick-VakilSearch/xyz|dxf
+purmac/gesim_dxfconverter|https://github.com/purmac/gesim_dxfconverter|A simple DXF to GCode Converter for GeSiM BioScaffolder
+naufraghi/pdf2dxf|https://github.com/naufraghi/pdf2dxf|Convert a PDF page to DXF
+maujabur/svg_to_dxf|https://github.com/maujabur/svg_to_dxf|Batch file to convert from .SVG to .DXF
+firstvalery/dxf|https://github.com/firstvalery/dxf|
+alranel/dxf-to-gcode|https://github.com/alranel/dxf-to-gcode|Tool for converting a DXF containing one or more polylines into a G-code for extrusion
+wantnon2/c3dDXFramework|https://github.com/wantnon2/c3dDXFramework|a simple framework based on dx9
+NorbertTu/QLOCKGENERATOR|https://github.com/NorbertTu/QLOCKGENERATOR|An Ionic v4 example project (PWA) to generate and export DXF, PDF and SVG files via maker.js and to assist you in designing your own front for your self-made word clock. 🕓
+neurolabusc/surf-ice|https://github.com/neurolabusc/surf-ice|GLSL surface rendering source code. Compiled versions available from NITRC. Loads 3DS, CTM, DXF, FreeSurfer, GII (GIfTI), GTS, LWO2, MS3D, MZ3, NV (BrainNetViewer), OBJ, OFF, PLY, STL, VTK. Tractography formats include BFloat, PDB, TCK, TRK, and VTK. Also NIfTI format voxelwise images.
+123dxf/dxf|https://github.com/123dxf/dxf|dxfdxf555888
+liwei1024/DXF|https://github.com/liwei1024/DXF|
+CrisAnderson/dxf|https://github.com/CrisAnderson/dxf|dxf generation project
+dxf222/dxf|https://github.com/dxf222/dxf|
+Dxiaofei/dxf|https://github.com/Dxiaofei/dxf|
+artex2000/dxf|https://github.com/artex2000/dxf|Basic DXF viewer
+Zleub/dxf|https://github.com/Zleub/dxf|
+rogerbiz/dxf|https://github.com/rogerbiz/dxf|
+oliver416/dxf|https://github.com/oliver416/dxf|
+hengrui/DXFrance2016|https://github.com/hengrui/DXFrance2016|
+miokato/DXFGeoConverter|https://github.com/miokato/DXFGeoConverter|
+dmrups/DxfPoc|https://github.com/dmrups/DxfPoc|
+sixsmall/dxflib-dxf|https://github.com/sixsmall/dxflib-dxf|通过dxflib库读取DXF文件
+deepakkumarsharma/dxfrwInterface|https://github.com/deepakkumarsharma/dxfrwInterface|DXF read and write Interface
+LaserQueue/DXFTimeEstimate|https://github.com/LaserQueue/DXFTimeEstimate|LaserQueue plugin that automatically estimates the length of time a DXF file will take to cut
+NecroMancer05/DxfReader|https://github.com/NecroMancer05/DxfReader|
+micbaran/DXFtoFML|https://github.com/micbaran/DXFtoFML|Application converts DXF files to FML, which can be imported to web application floorplanner.com
+suneran/dxfReader|https://github.com/suneran/dxfReader|
+GreatDevelopers/DXFLibC|https://github.com/GreatDevelopers/DXFLibC|C bindings for DXFLib
+s235jr/DXFWidthHeigth|https://github.com/s235jr/DXFWidthHeigth|App get dimension from dxf files
+XUIgit/dxfReader|https://github.com/XUIgit/dxfReader|dxf文件解析 用来提取CAD中的dxf文件格式所保存的图像信息 
+xuyuanxiang/DXFrontPage|https://github.com/xuyuanxiang/DXFrontPage|
+nitmic/DXFramework11|https://github.com/nitmic/DXFramework11|DirectX11を用いたWindows向けゲーム制作用フレームワーク
+dacapolife87/DXFrameWork|https://github.com/dacapolife87/DXFrameWork|
+tenomo/DxfViewer|https://github.com/tenomo/DxfViewer|
+NECounter/DxfDecoder|https://github.com/NECounter/DxfDecoder|This is a tool that can Convert a certain dxf file to G Code for CNC use.
+cobr123/DxfParser|https://github.com/cobr123/DxfParser|
+gccouch/DxF|https://github.com/gccouch/DxF|Dxf2014
+codestk/DXF|https://github.com/codestk/DXF|
+dxfom/dxf|https://github.com/dxfom/dxf|Lossless low level DXF object model.
+ycxGHub/dxflib2|https://github.com/ycxGHub/dxflib2|android dxflib
+tmpvar/dxf|https://github.com/tmpvar/dxf|
+ieyasu/dxf|https://github.com/ieyasu/dxf|Simple DXF (CAD interchange format) writer for Ruby
+deping/DXF|https://github.com/deping/DXF|
+yurko7/dxf|https://github.com/yurko7/dxf|
+var-rain/dxf|https://github.com/var-rain/dxf|autoCAD dxf file to json with Java code.
+houxiaofan/dxf|https://github.com/houxiaofan/dxf|
+qwlvip/DXF|https://github.com/qwlvip/DXF|DXF一键端
+dcowden/dxf|https://github.com/dcowden/dxf|Some dxf files
+ycxGHub/dxflib2|https://github.com/ycxGHub/dxflib2|android dxflib
+calvinbramlett/dxf2016|https://github.com/calvinbramlett/dxf2016|
+todros/dxfHATCH|https://github.com/todros/dxfHATCH|
+s235jr/DxfReader|https://github.com/s235jr/DxfReader|Finall Project of BootCamp
+junseo04/dxfReader|https://github.com/junseo04/dxfReader|
+yurko7/dxf|https://github.com/yurko7/dxf|
+var-rain/dxf|https://github.com/var-rain/dxf|autoCAD dxf file to json with Java code.
+b917893200/DXF|https://github.com/b917893200/DXF|
+andresfelipemendez/DXFNativeLibrary|https://github.com/andresfelipemendez/DXFNativeLibrary|Build fxflib as a native dll to import dxf file from untiy 
+devmind-ua/dxfPlot|https://github.com/devmind-ua/dxfPlot|Record numerous points and write them to DXF file
+msarada1304/DXFtoGCODE|https://github.com/msarada1304/DXFtoGCODE|DXFからGCodeファイルを作成するソフト
+JamesDansie/DxfMaze|https://github.com/JamesDansie/DxfMaze|Read a floor plan (dxf file), make it into a graph, then solve the graph, and give back directions
+nishishailesh/dxf1|https://github.com/nishishailesh/dxf1|
+dxfdxf123/dxfdxf123-|https://github.com/dxfdxf123/dxfdxf123-|
+53b4/dxfTool|https://github.com/53b4/dxfTool|Simple tool to create dxf file with circles inside that are defined outside - in separate file.  This project based on netDxf library
+qingqibing/dxfrwInterface|https://github.com/qingqibing/dxfrwInterface|
+jhpeterson/DXFtoMesh|https://github.com/jhpeterson/DXFtoMesh|Python scripts to convert from DXF files to mesh files
+hidemune/DxfConv|https://github.com/hidemune/DxfConv|QCAD用DXFコンバーター
+brian90254/Playfields|https://github.com/brian90254/Playfields|Playfield cut files DXF and SVG
+hanminggui/DxfServer|https://github.com/hanminggui/DxfServer|
+alexdegtev/DxfProgram|https://github.com/alexdegtev/DxfProgram|Diplom project
+tianxiao/DXFunctionDraw|https://github.com/tianxiao/DXFunctionDraw|visualization tool  Drawing 3d function
+GitHubVents/DxfViewer|https://github.com/GitHubVents/DxfViewer|
+budack/shuriken|https://github.com/budack/shuriken|Shuriken 1:1 drawing ready to print.
+DIXINB/DxfApp|https://github.com/DIXINB/DxfApp|We create 2D objects analitically and save in a dxf file.
+UliRehr15/sst_dxf01_lib|https://github.com/UliRehr15/sst_dxf01_lib|sst dxf lib: Tool dxf to csv
+Lervard/dxf2svg|https://github.com/Lervard/dxf2svg|Convert dxf files to svg files. Supposedly works with inkscape svg files. Based on http://sourceforge.net/projects/dxf-svg-convert/
+DXF1021/dxf|https://github.com/DXF1021/dxf|
+Fenix173/dxf|https://github.com/Fenix173/dxf|
+chenxu2011/dxf|https://github.com/chenxu2011/dxf|
+Lervard/dxf2svg|https://github.com/Lervard/dxf2svg|Convert dxf files to svg files. Supposedly works with inkscape svg files. Based on http://sourceforge.net/projects/dxf-svg-convert/
+hehongyu1995/Dxf2GCode|https://github.com/hehongyu1995/Dxf2GCode|
+ikwtif/Dxf2Inventory|https://github.com/ikwtif/Dxf2Inventory|Creating inventory from dxf for construction
+qelectrotech/DXFtoQET-2020|https://github.com/qelectrotech/DXFtoQET-2020|
+UliRehr15/sst_dxf03_lib|https://github.com/UliRehr15/sst_dxf03_lib|Small Dxf Database: Handle dxf data in tables. Tools sstDxf03_to_csv, sstDxf03_from_csv
+trogers1884/dxf|https://github.com/trogers1884/dxf|Data Xchange Framework
+aaronday/dxf|https://github.com/aaronday/dxf|
+fall005838/dxf|https://github.com/fall005838/dxf|
+DanKeFTD/DXF|https://github.com/DanKeFTD/DXF|
+megablastinc/DXF|https://github.com/megablastinc/DXF|
+sun-love/DXF|https://github.com/sun-love/DXF|DXF文件读取与显示
+cancerak/dxf|https://github.com/cancerak/dxf|Using ezdxf package to optimize my everyday work.
+DanXiaofeng/dxf|https://github.com/DanXiaofeng/dxf|
+sasaki-trombone/dxf|https://github.com/sasaki-trombone/dxf|DXFファイルのフォーマットについてのまとめと、JavaScriptでDXFファイルを出力したときのメモ
+GuJun1990/DXF|https://github.com/GuJun1990/DXF|
+budack/shuriken|https://github.com/budack/shuriken|Shuriken 1:1 drawing ready to print.
+ted-n/dxf|https://github.com/ted-n/dxf|DXF Builder/Parser
+pile-contributors/dxf|https://github.com/pile-contributors/dxf|Simple pile for interacting with (Autocad's) dxf files
+DevinderKaur/dxf|https://github.com/DevinderKaur/dxf|
+PriorityQueue/dxf|https://github.com/PriorityQueue/dxf|
+khmoh/DXF|https://github.com/khmoh/DXF|
+wygits/dxf|https://github.com/wygits/dxf|
+1971738522/dxf|https://github.com/1971738522/dxf|
+barongeng/DXFileExplorer|https://github.com/barongeng/DXFileExplorer|The file manager tool, supports plugins, themes, async operations
+JRForman/dxfAssy|https://github.com/JRForman/dxfAssy|Create .dxf files from Autodesk Inventor sssemblies
+imsuneran/dxfReader|https://github.com/imsuneran/dxfReader|
+OnRoadZy/DxfViewer|https://github.com/OnRoadZy/DxfViewer|DXF文件阅读器。
+kuboja/dxf2fcs|https://github.com/kuboja/dxf2fcs|Tool for converting dxf to FemCAD script
+groblerjf/DXF2GCODE|https://github.com/groblerjf/DXF2GCODE|Originally did this in Matlab. I am now doing it in Julia to learn the language. Interface that reads a DXF file and converts it into a usable GCODE file (with cutting lead-in and lead-out) for 2.5D plasma cutting table. (Original https://github.com/groblerjf/PlasmaNestingProgram)
+barongeng/DXFileExplorer|https://github.com/barongeng/DXFileExplorer|The file manager tool, supports plugins, themes, async operations
+JRForman/dxfAssy|https://github.com/JRForman/dxfAssy|Create .dxf files from Autodesk Inventor sssemblies
+imsuneran/dxfReader|https://github.com/imsuneran/dxfReader|
+OnRoadZy/DxfViewer|https://github.com/OnRoadZy/DxfViewer|DXF文件阅读器。
+Huai-Dc/dxfFile|https://github.com/Huai-Dc/dxfFile|
+EasyID/DXFToMotion|https://github.com/EasyID/DXFToMotion|
+rdsivd/DXFtoQET|https://github.com/rdsivd/DXFtoQET|
+droidloy/DXF2Kbridge|https://github.com/droidloy/DXF2Kbridge|.NET Console application to convert a dxf file to a kbridge design
+likouzxc/dxf4j|https://github.com/likouzxc/dxf4j|将dxf文件进行java转义
+lihongsong/DXFlatTableView|https://github.com/lihongsong/DXFlatTableView|
+mhaberler/dxf2gcode|https://github.com/mhaberler/dxf2gcode|forked from https://sourceforge.net/p/dxf2gcode
+f627422467/dxf4J|https://github.com/f627422467/dxf4J|解析DXF文件信息，并转化为点信息
+shaundang94/DxfTestCirleLayer|https://github.com/shaundang94/DxfTestCirleLayer|一个十分轻量简洁的录制拍摄分段圆环进度Layer
+mduggan/dxf2svg|https://github.com/mduggan/dxf2svg|dxf to svg (for inkscape) converter
+manuelmcd/dxf2gcode|https://github.com/manuelmcd/dxf2gcode|Clone from  https://git.code.sf.net/p/dxf2gcode/sourcecode dxf2gcode-sourcecode
+douglas525264/DXFirstGitProject|https://github.com/douglas525264/DXFirstGitProject|TestWork
+randrews/dxf2gcode|https://github.com/randrews/dxf2gcode|
+sangpark/ruby-dxf2svg|https://github.com/sangpark/ruby-dxf2svg|A Ruby DXF to SVG conversion script
+jethornton/dxf2plasma|https://github.com/jethornton/dxf2plasma|DXF to Plasma CAM for LinuxCNC
+cjsatuforc/DXF4Laser|https://github.com/cjsatuforc/DXF4Laser|DXF export addin for Fusion 360
+rweinzierl10/wrltodxf|https://github.com/rweinzierl10/wrltodxf|Convert a wrl x3d obj File to 3d DXF File
+OpenMandrivaAssociation/dxf2fig|https://github.com/OpenMandrivaAssociation/dxf2fig|
+GitHubVents/DxfPdmTask|https://github.com/GitHubVents/DxfPdmTask|
+mrpossoms/dxf2gcode|https://github.com/mrpossoms/dxf2gcode|Fork of dxf2gcode, adding features to support old non-unix controllers
+uzername/DXFrenderingBitmapAndWMF|https://github.com/uzername/DXFrenderingBitmapAndWMF|
+wgrover/dxf2fgc|https://github.com/wgrover/dxf2fgc|LabVIEW software for drilling holes in glass wafers on a CNC mill
+noilpa/dxf2urscript-converter|https://github.com/noilpa/dxf2urscript-converter|convert 2d primitives from dxf file to ur commands
+scottshare/dxf2plt|https://github.com/scottshare/dxf2plt|Automatically exported from code.google.com/p/dxf2plt
+samcoinc/dxf2gcode|https://github.com/samcoinc/dxf2gcode|A fork of the dxf2gcode Source Forge project
+NeonLix/dxfFileProcess|https://github.com/NeonLix/dxfFileProcess|devide .dxf file and convert it to .svg file
+davr/dxf2gcode|https://github.com/davr/dxf2gcode|
+Dadlick/DxfToBmp|https://github.com/Dadlick/DxfToBmp|converting vector file * .dxf to monochrome raster * .bmp
+wgziOS/DXFileCacheManager|https://github.com/wgziOS/DXFileCacheManager|一个缓存工具
+grog42/DXFMangmentClassLibrary|https://github.com/grog42/DXFMangmentClassLibrary|A set of classes related to reading dxf files, managing read data and writing dxf files. Optimised for use in an upcoming project.
+faellie/dxf2svg|https://github.com/faellie/dxf2svg|Parse dxf files to SVG format
+Toyoharu-Nishikawa/dxf2svg|https://github.com/Toyoharu-Nishikawa/dxf2svg|
+rere-dnaw/dxf2g|https://github.com/rere-dnaw/dxf2g|dxf2g
+OverseerY/DxfToSvgConverter|https://github.com/OverseerY/DxfToSvgConverter|Java App with GUI to convert DXF to (special) SVG using Kabeja's library. DXF should have two layers: "1" - with contour polyline and "0" - with all others.
+rdsivd/DXFtoQET-2020|https://github.com/rdsivd/DXFtoQET-2020|DXf to QET elmt converter 2020
+Ayuntamiento-Zaragoza/dxf2gml-catastro|https://github.com/Ayuntamiento-Zaragoza/dxf2gml-catastro|Servicio web para la conversión de ficheros en formato DXF a formato GML
+xiaxia179/dxf2ponoko|https://github.com/xiaxia179/dxf2ponoko|Convert DWG to inkscape SVGs suitable for ponoko.com laser cutting or cnc routing.
+msutas/dxf2gcode|https://github.com/msutas/dxf2gcode|
+var-rain/Dxf2Entity|https://github.com/var-rain/Dxf2Entity|
+AndeyLapkoMobiDev/DXFormWithGridView|https://github.com/AndeyLapkoMobiDev/DXFormWithGridView|
+ShaukiBagdadi/Dxf2Mod|https://github.com/ShaukiBagdadi/Dxf2Mod|Converting DXF meshes to FEA representation
+Justin-ma/DXF2NC|https://github.com/Justin-ma/DXF2NC|HuangHen Nest 
+foudilbey/Dxf2vtk|https://github.com/foudilbey/Dxf2vtk|
+denisenkom/dxf2kam|https://github.com/denisenkom/dxf2kam|Autocad DXF -> Kamea (semil.ru) converter
+QQBigIce/DxfToExcel|https://github.com/QQBigIce/DxfToExcel|本程序用于CAD保存的DXF文件中的块统计并制表(统计设备)
+UliRehr15/sst_dxf02_lib|https://github.com/UliRehr15/sst_dxf02_lib|Small Dxf Database: Handle dxf data in tables. Tools Dxf2Csv and Csv2Dxf
+shintarof/dxf2gcode|https://github.com/shintarof/dxf2gcode|dxf2gcode
+Ricyteach/dxf2shapely|https://github.com/Ricyteach/dxf2shapely|Very limited tool for grabbing line segments from pre-curated dxf files and turning them into shapely Polygons.
+mecamira/dxf2gcode|https://github.com/mecamira/dxf2gcode|Automatically exported from code.google.com/p/dxf2gcode
+cguagliano/DXF2Machine|https://github.com/cguagliano/DXF2Machine|This project stems from DXF project. DXF files can translate into machine code.
+aur-archive/dxf2fig|https://github.com/aur-archive/dxf2fig|
+2000dB/dxf2scr|https://github.com/2000dB/dxf2scr|dxf to scr to bring in dxfs in eagle for pcb outline
+DxfficultForReasons/Dxfficult4Reasons|https://github.com/DxfficultForReasons/Dxfficult4Reasons|
+VashaTS/dxf2agiehp|https://github.com/VashaTS/dxf2agiehp|Convert table for EDM Machining form DXF file (Created by Creo Modelling) to program usable on AGIE Hyperspark Machines
+avtehnik/dxf2gcode-web|https://github.com/avtehnik/dxf2gcode-web|
+andywar65/dxf2vr|https://github.com/andywar65/dxf2vr|Discontinued. Further development in PYMba
+jgcastillo/angular-dxfmr3-uonhg2|https://github.com/jgcastillo/angular-dxfmr3-uonhg2|Created with StackBlitz ⚡️
+SanZamoyski/dxf2gcode-pocketMill|https://github.com/SanZamoyski/dxf2gcode-pocketMill|
+lit-uriy/dxf2gcode|https://github.com/lit-uriy/dxf2gcode|Зеркало с
+NickGoumas/dxf2scr_py|https://github.com/NickGoumas/dxf2scr_py|Python program that generates an EagleCAD readable script file from a 2D DXF file.
+tisnik/dxf2sap|https://github.com/tisnik/dxf2sap|Crude DXF importer and editor for CAD-RE-FX project
+coin3d/dime|https://github.com/coin3d/dime|DXF import
+aka863/ezdxf|https://github.com/aka863/ezdxf|dxf library
+labche/cnc-plasma-dxf-|https://github.com/labche/cnc-plasma-dxf-|dxf files 
+Ayuntamiento-Zaragoza/dxf2gml-catastro-client|https://github.com/Ayuntamiento-Zaragoza/dxf2gml-catastro-client|Cliente para el servicio web de transformación de archivos DXF a GML de catastro
+ENUODemon/DXFAssist|https://github.com/ENUODemon/DXFAssist|DXF Assist
+supergreenlab/SuperGreenBox|https://github.com/supergreenlab/SuperGreenBox|🤖🌱📦 An innovative growing environment for stealth growth and optimized yield.
+SanZamoyski/dxf2gcode-for-grbl|https://github.com/SanZamoyski/dxf2gcode-for-grbl|Configuration files that allow you to generate g-code compatible with grbl using dxf2gcode.
+lcpsky1991/Dxf_parse_as_netDxf|https://github.com/lcpsky1991/Dxf_parse_as_netDxf|convert Dxf to Json with java
+karvilioblerry/dxf-processing-utils|https://github.com/karvilioblerry/dxf-processing-utils|DXF utility
+Kiradle/Py4CAD|https://github.com/Kiradle/Py4CAD|Test dxf
+NiklasFauth/smd-reel-storage|https://github.com/NiklasFauth/smd-reel-storage|DXF files to laser-cut storage boxes that fit inside standardised "euro-boxes"
+muller95/dxfreading|https://github.com/muller95/dxfreading|
+johnrees/dxftest|https://github.com/johnrees/dxftest|
+XyXXwZ/dxftwea|https://github.com/XyXXwZ/dxftwea|A TEA-like algorithm implementation for password encoding used in the database of DNF(Taiwan) server. 
+fiveai/aiodxf|https://github.com/fiveai/aiodxf|asyncio port of dxf: https://github.com/davedoesdev/dxf
+williamazevedodepaula/CAD-Canvas|https://github.com/williamazevedodepaula/CAD-Canvas|Canvas para mermitir desenhar imagens PNG gerada no servidor a partir de um arquivo DXF 
+alishajain/dxfwentities|https://github.com/alishajain/dxfwentities|Writing entities to Dxf files 
+jivechang/DXFViewer|https://github.com/jivechang/DXFViewer|
+k3rn3l3rr0r/DXFwriter|https://github.com/k3rn3l3rr0r/DXFwriter|A PHP class library to write AutoCad DXF-files
+Rosk/dxfauslesen|https://github.com/Rosk/dxfauslesen|mit dxfgrabber eine dxf Datei auslesen
+misdake/dxflib|https://github.com/misdake/dxflib|fork of dxflib 3.17.0 - https://qcad.org/en/what-is-dxflib
+MrChampz/DXFramework|https://github.com/MrChampz/DXFramework|
+dmartzol/dxfmaps|https://github.com/dmartzol/dxfmaps|Generating maps from shapefiles into DXF format
+megablastinc/DXFimporter|https://github.com/megablastinc/DXFimporter|
+williamazevedodepaula/CAD-Canvas|https://github.com/williamazevedodepaula/CAD-Canvas|Canvas para mermitir desenhar imagens PNG gerada no servidor a partir de um arquivo DXF 
+egamerlz/DXFView|https://github.com/egamerlz/DXFView|
+sondree/dxfoptimizer|https://github.com/sondree/dxfoptimizer|A simple DXF optimizer for optimizing the position of multiple DXF components
+Usemocun/dxfhx|https://github.com/Usemocun/dxfhx|mv n 
+bear43/dxfer|https://github.com/bear43/dxfer|
+Luckyxcj/dxflib|https://github.com/Luckyxcj/dxflib|dxflib test qt
+JackRFuller/dxfdzfdz|https://github.com/JackRFuller/dxfdzfdz|
+hellobody/dxframe|https://github.com/hellobody/dxframe|Automatically exported from code.google.com/p/dxframe
+tmpvar/dxfstream|https://github.com/tmpvar/dxfstream|streaming dxf file format parser
+Ridgeback85/dxftosacs|https://github.com/Ridgeback85/dxftosacs|convert dxf to sac input
+dirkrossger/DXFimport|https://github.com/dirkrossger/DXFimport|
+arischen/DXFReader|https://github.com/arischen/DXFReader|
+dxfwsm/dxfwsm|https://github.com/dxfwsm/dxfwsm|
+bkorn68/DXFReader|https://github.com/bkorn68/DXFReader|
+spectralsoftware/dxfparser|https://github.com/spectralsoftware/dxfparser|code to parse R12 DXF files
+allartburns/dxfwrite|https://github.com/allartburns/dxfwrite|new work based on a branch of dxfwrite version 1.2.1
+jeremytammik/ExportCncFab|https://github.com/jeremytammik/ExportCncFab|Revit Add-In to export Revit wall parts to DXF or SAT for CNC fabrication
+pld-linux/dxflib|https://github.com/pld-linux/dxflib|Open source C++ library mainly for parsing DXFTM files
+bobjolliffe/dxfparser|https://github.com/bobjolliffe/dxfparser|
+aviket/dxfviewer|https://github.com/aviket/dxfviewer|Dxfviewer Wordpress Plugin
+Krzysiek-K/dxfw|https://github.com/Krzysiek-K/dxfw|
+afakihcpr/dxflib|https://github.com/afakihcpr/dxflib|
+aroedel/dxfmngr|https://github.com/aroedel/dxfmngr|test rep
+LibrePCB/dxflib|https://github.com/LibrePCB/dxflib|Fork of dxflib (from http://www.ribbonsoft.com/en/dxflib-downloads)
+qingqibing/dxfio|https://github.com/qingqibing/dxfio|
+douglasrolim/dxftoobject|https://github.com/douglasrolim/dxftoobject|convert dxf file into javascript object
+williamhunter/dxflib|https://github.com/williamhunter/dxflib|Minimalist C library to write simple DXF files
+bogstandard/dxfeather|https://github.com/bogstandard/dxfeather|A feather light implementation of DXF12 building in Go. Targets AutoCAD. 
+cbcrouch/DXFramework|https://github.com/cbcrouch/DXFramework|A simple Win32 application for rendering with Direct3D.
+zzlanyy/dxfbb|https://github.com/zzlanyy/dxfbb|东西方不败
+jasmine1ale/dxfcghjb|https://github.com/jasmine1ale/dxfcghjb|
+migmacdev/DXFConverter|https://github.com/migmacdev/DXFConverter|Win application to convert a list of point to DXF format
+vhrdtech/dxfio|https://github.com/vhrdtech/dxfio|DXF import and export block
+t-edson/DXFya|https://github.com/t-edson/DXFya|Librería para el manejo de archivos en formato DXF
+JosepLlobet/DXFDraw|https://github.com/JosepLlobet/DXFDraw|Read a DXF file and draw it. C# 
+jeremytammik/ExportCncFab|https://github.com/jeremytammik/ExportCncFab|Revit Add-In to export Revit wall parts to DXF or SAT for CNC fabrication
+gradbot/dxfw|https://github.com/gradbot/dxfw|dxfw - DirectX FrameWork
+nikhartman/dxfasc|https://github.com/nikhartman/dxfasc|convert dxf files to asc and dc2 formats for ebeam lithography
+BartSiwek/DXFW|https://github.com/BartSiwek/DXFW|A "GLFW-like" window and input handling library for DirectX
+hareesha21/DXFReader|https://github.com/hareesha21/DXFReader|Sample UI
+anushajayadev/dxfxffgg|https://github.com/anushajayadev/dxfxffgg|
+KORYUOH/dxfw|https://github.com/KORYUOH/dxfw|
+liwei1024/DXFTools|https://github.com/liwei1024/DXFTools|DXFTools
+ueanagod/dxfsxg|https://github.com/ueanagod/dxfsxg|
+marmakoide/dxftools|https://github.com/marmakoide/dxftools|Command-line tool to manipulate 2d DXF files
+queenmedley/dxftoshp|https://github.com/queenmedley/dxftoshp|Extracting contour layers from dxf with elevation or z-value
+pklampros/dxfspatial|https://github.com/pklampros/dxfspatial|An R package to extract spatial information from structured dxf files
+DanielCurtis90/DXFParser|https://github.com/DanielCurtis90/DXFParser|Python program to extract graphical and other information from DXF files used in autocad
+andurala/DXFBS|https://github.com/andurala/DXFBS|
+DanielCurtis90/dxfjupyter|https://github.com/DanielCurtis90/dxfjupyter|dxf parser for the jupyter notebook
+Fbt123456/dxfg|https://github.com/Fbt123456/dxfg|
+berardo/dxflow|https://github.com/berardo/dxflow|A Salesforce DX CLI (sfdx) plugin to manage git branching workflows. Use Gitflow, Oneflow, or any customised workflow and speeds things up with sfdx flow:* commands
+smay4finger/dxfsanitizer|https://github.com/smay4finger/dxfsanitizer|
+S-user-gh/Dxf3GyM5ehgWUb|https://github.com/S-user-gh/Dxf3GyM5ehgWUb|
+DNAngeluS/dxframework|https://github.com/DNAngeluS/dxframework|some kind of work in progress DX10 framework
+METAJIOPE3KA/dxfdfv|https://github.com/METAJIOPE3KA/dxfdfv|
+lisophorm/DXFParser|https://github.com/lisophorm/DXFParser|
+rere-dnaw/dxfgcode|https://github.com/rere-dnaw/dxfgcode|convert dxf file into gcode
+gidor/dxfetl|https://github.com/gidor/dxfetl|
+AhmedAliH/dxfcgv|https://github.com/AhmedAliH/dxfcgv|
+yenchihliao/dxfinal|https://github.com/yenchihliao/dxfinal|
+nov314k/dxfpoints|https://github.com/nov314k/dxfpoints|Java utility to generate a DXF file containing points with annotations, given point coordinates in a CSV file
+Artyomich113/DXFramework|https://github.com/Artyomich113/DXFramework|DXFramework
+tapnair/DXFImporter|https://github.com/tapnair/DXFImporter|A utility for Fusion 360 to import multiple DXF files.
+CoffenHu/dxfwrite|https://github.com/CoffenHu/dxfwrite|
+hanneshassler/dxfs|https://github.com/hanneshassler/dxfs|Various DXF Files
+luizcorreia/DXFsharp|https://github.com/luizcorreia/DXFsharp|DXF Drawing Exchange Format - Library .NET C#
+gangzi2/dxfreading|https://github.com/gangzi2/dxfreading|
+potynobg/DXFRead|https://github.com/potynobg/DXFRead|DXF Reader for Xojo
+Lowess/DXFHelper|https://github.com/Lowess/DXFHelper|Programme C++ pour déplacement de fichiers DXF d'un catalogue
+alishajain/dxfrwentities|https://github.com/alishajain/dxfrwentities|
+wholder/DXFReader|https://github.com/wholder/DXFReader|This code implements a simple DXF file parser that can read many 2D DXF files containing ARC, LINE, POLYLINE, LWPOLYLINE and SPLINE outlines such as those used for embroidery patterns and input to machines like Silhouette paper cutters.
+pugfart/dxfviewtry|https://github.com/pugfart/dxfviewtry|
+Hong-Xiang/dxfs|https://github.com/Hong-Xiang/dxfs|File system operations made easy!
+physphys/dxfcon|https://github.com/physphys/dxfcon|
+kwikius/dxflib|https://github.com/kwikius/dxflib|C++ library for reading and writing dxf files
+ttxndrx/dxfreader|https://github.com/ttxndrx/dxfreader|Extracts polyline and circle entities from a DXF file
+nmeyering/dxfspirit|https://github.com/nmeyering/dxfspirit|Parsing some stuff from dxf files using Boost.Spirit
+mtannertdev/dxfinder|https://github.com/mtannertdev/dxfinder|A web-based spotting network filter to help you find the DX that *you* need
+alexandregf4/DXFlow|https://github.com/alexandregf4/DXFlow|My MSc. thesis. A Power Flow program based on switchable branch modelling and impedance angle rotation techniques.
+calebbaker194/DXFCleaner|https://github.com/calebbaker194/DXFCleaner|To c
+Hong-Xiang/dxfunction|https://github.com/Hong-Xiang/dxfunction|Functional lib 
+dxfish/dxfish|https://github.com/dxfish/dxfish|
+lhfuestc/DXFX|https://github.com/lhfuestc/DXFX|
+rena0157/dxflibrary|https://github.com/rena0157/dxflibrary|A Dxf File Library
+wxyer/dxfviewer|https://github.com/wxyer/dxfviewer|
+hamzapro1/dxfgdfgdfhg|https://github.com/hamzapro1/dxfgdfgdfhg|hhhhhhhhhhhhhhh
+scruss/DXFlaserutils|https://github.com/scruss/DXFlaserutils|tools to clean/modify OpenSCAD DXF output for reuse
+saillsha/dxfeed|https://github.com/saillsha/dxfeed|
+we-won/dxframework|https://github.com/we-won/dxframework|
+aur-archive/dxfwrite|https://github.com/aur-archive/dxfwrite|
+vashonburnout/dxfiles|https://github.com/vashonburnout/dxfiles|droid x files
+Axenu/DXFA|https://github.com/Axenu/DXFA|DirectX in FireArrow
+megnar/dxfg|https://github.com/megnar/dxfg|
+uzername/DXFRendering|https://github.com/uzername/DXFRendering|
+1021840052/DXFRead|https://github.com/1021840052/DXFRead|DXFRead
+jerome-jh/dxfsnap|https://github.com/jerome-jh/dxfsnap|Simple script to round coordinates of a DXF file
+linchangyi/dxfl|https://github.com/linchangyi/dxfl|读写分离demo
+Wolfhergang/dxfhandler|https://github.com/Wolfhergang/dxfhandler|basic dxfhandler bases on dxflib
+mawaddah/dxfx|https://github.com/mawaddah/dxfx|
+sol-ansano-kim/dxflib|https://github.com/sol-ansano-kim/dxflib|Mirror of dxflib (http://www.ribbonsoft.com/)
+swj0418/DXFParser|https://github.com/swj0418/DXFParser|DXFParser for reading and manipulating .dxf file which is derived from .dwg file.
+yujisheng/dxfl|https://github.com/yujisheng/dxfl|
+deepblueparticle/dxf-viewer|https://github.com/deepblueparticle/dxf-viewer|DXF CAD File Viewer
+pkonieczny007/dxf_scaner3.0-clear_mode|https://github.com/pkonieczny007/dxf_scaner3.0-clear_mode|dxf scaner dimnesion checker
+hareesha21/SampleUI|https://github.com/hareesha21/SampleUI|For DXF Reader
+caoyuan96421/PNGVectorization|https://github.com/caoyuan96421/PNGVectorization|Convert picture to DXF 
+danmarshall/dxf-parser-typings|https://github.com/danmarshall/dxf-parser-typings|@types for dxf-parser
+yyk99/svg2dxf|https://github.com/yyk99/svg2dxf|Converter SVG to DXF
+qiluosheng/qrcode_png_dxf|https://github.com/qiluosheng/qrcode_png_dxf|create qrcode png&dxf
+droidloy/dxf-kbridge|https://github.com/droidloy/dxf-kbridge|DXF to kBridge translator
+krdavi/js-dxf-parser|https://github.com/krdavi/js-dxf-parser|js-dxf-parser
+silvars/dxf-python|https://github.com/silvars/dxf-python|DXF Writer Python
+DanielCurtis90/ALargeFlask|https://github.com/DanielCurtis90/ALargeFlask|DXF Parser Webapp
+jerrwein/Alta_DXF_GCode|https://github.com/jerrwein/Alta_DXF_GCode|DXF to GCode Generator
+Ginkoe/rustydxf|https://github.com/Ginkoe/rustydxf|Minimalist DXF Parser
+sillevl/dxf-dummy-generator|https://github.com/sillevl/dxf-dummy-generator|Dxf dummy generator gem.
+aykutkardas/Hiro.js|https://github.com/aykutkardas/Hiro.js|Assyst > GCode > DXF | Convertor
+wolinski/Dxf_LL_Schedule|https://github.com/wolinski/Dxf_LL_Schedule|dxf files drawing schedule
+inflex/hpgl-dxf|https://github.com/inflex/hpgl-dxf|Convert HPGL to DXF
+DaveBerkeley/lasercut|https://github.com/DaveBerkeley/lasercut|code to generate DXF files for a laser cutter
+WarriorSS/acadlib|https://github.com/WarriorSS/acadlib|autocad dxf automation library
+thishome153/netdxf|https://github.com/thishome153/netdxf|DXF inter operation library
+julienrat/DXF-generator|https://github.com/julienrat/DXF-generator|un générateur de dxf
+msqui/dxf_machine|https://github.com/msqui/dxf_machine|dxf file parser
+renzku/convert-demo|https://github.com/renzku/convert-demo|DXF文件读取解析成点List
+davidpettersson/joddla|https://github.com/davidpettersson/joddla|JobXML to DXF Converter
+EcceRobot/R2D|https://github.com/EcceRobot/R2D|Raster to DXF
+groblerjf/PlasmaNestingProgram|https://github.com/groblerjf/PlasmaNestingProgram|DXF Nesting Program for VDG University of Pretoria in MATLAB
+thesamprice/pcl2dxf|https://github.com/thesamprice/pcl2dxf|Point Cloud to DXF
+tyharness/tyCADv1|https://github.com/tyharness/tyCADv1|Simple DXF functions
+lhondareyte/DXF-Templates|https://github.com/lhondareyte/DXF-Templates|DXF files and templates
+tocs/simplepydxflib|https://github.com/tocs/simplepydxflib|A simple dxf library
+dexterford77/dexterford77.github.io|https://github.com/dexterford77/dexterford77.github.io|DXF Studios website
+dxfom/color|https://github.com/dxfom/color|DXF color index mappings.
+jumpythegecko/DXF-Interpretor|https://github.com/jumpythegecko/DXF-Interpretor|
+jasleenkaur/dxf_programming|https://github.com/jasleenkaur/dxf_programming|c++ program to create primitives shapes for CAD
+danejensen/DXF-parser|https://github.com/danejensen/DXF-parser|
+franciscodominguezmateos/pyDXFreader|https://github.com/franciscodominguezmateos/pyDXFreader|Little easy DXF cad file format reader in python
+Uronchaa/Dxf_extract|https://github.com/Uronchaa/Dxf_extract|
+OldSnapo/gisclient_dxfexport|https://github.com/OldSnapo/gisclient_dxfexport|Gisclient plugin for DFX export
+bluesky66-dev/Xamarin_DXFreight|https://github.com/bluesky66-dev/Xamarin_DXFreight|
+xtrntr/DXF-Converter|https://github.com/xtrntr/DXF-Converter|Generate robot motion instructions from DXF/CAD files
+StephanU/dxf-reader|https://github.com/StephanU/dxf-reader|Automatically exported from code.google.com/p/dxf-reader
+aur-archive/dxfwrite-hg|https://github.com/aur-archive/dxfwrite-hg|
+thatch/dxf_fix|https://github.com/thatch/dxf_fix|Fixer for dxf files from openscad
+pip182/fixDXF|https://github.com/pip182/fixDXF|
+farazk1/CSI-DXFImport|https://github.com/farazk1/CSI-DXFImport|
+qingqibing/dxf-parser|https://github.com/qingqibing/dxf-parser|
+AntoineChalons/DXF-Diff|https://github.com/AntoineChalons/DXF-Diff|evaluate max diff between CAD plan and image
+xdbk07/TrussDXF|https://github.com/xdbk07/TrussDXF|
+DashZhang/dxf-interpreter|https://github.com/DashZhang/dxf-interpreter|LabVIEW package to read .dxf CAD file into LabVIEW without expensive NI Vision Software
+mrpasztoradam/BendDXF|https://github.com/mrpasztoradam/BendDXF|Sheet metal bending console tool, with DXF output.
+slywrightuk/dxf_gen|https://github.com/slywrightuk/dxf_gen|cad file generation
+Sr173/dxf-tools|https://github.com/Sr173/dxf-tools|自动更新基址工具
+bscheibel/dxf_reader|https://github.com/bscheibel/dxf_reader|
+komilll/dxFramework|https://github.com/komilll/dxFramework|DirectX11 framework to test my stuff
+jiangyb/LiteDXF|https://github.com/jiangyb/LiteDXF|read/write/display r14  dxf file
+zsiki/dxf_utils|https://github.com/zsiki/dxf_utils|Small utility scripts to handle dxf files
+paulrunco/duck-dxf|https://github.com/paulrunco/duck-dxf|A collection of python tools for manipulating dxf files
+qingqibing/three-dxf|https://github.com/qingqibing/three-dxf|
+hvempral/DxFlow|https://github.com/hvempral/DxFlow|Open-Source Poly-Phase Distribution load flow simulation tool
+CoffenHu/dxfwrite_cn|https://github.com/CoffenHu/dxfwrite_cn|Chinese version of dxfwrite https://bitbucket.org/mozman/dxfwrite
+jotpandher/dxflib-entities|https://github.com/jotpandher/dxflib-entities|
+Dygmalab/dxf-align|https://github.com/Dygmalab/dxf-align|use kicad's python support to distribute keys, leds and diodes according to supplied DXF template
+Archileon/dxf-converter|https://github.com/Archileon/dxf-converter|
+mikesongming/dxf_parser|https://github.com/mikesongming/dxf_parser|
+alispa/DXF-PDF|https://github.com/alispa/DXF-PDF|
+RockFercho/react-dxfxcw|https://github.com/RockFercho/react-dxfxcw|Created with StackBlitz ⚡️
+emre-basala/dxf-reader|https://github.com/emre-basala/dxf-reader|
+nehaesfera/three-dxf|https://github.com/nehaesfera/three-dxf|
+lpwwpl/matlab_dxf|https://github.com/lpwwpl/matlab_dxf|
+nickgravish/dxf_utilities|https://github.com/nickgravish/dxf_utilities|dxf_utilities is a set of python scripts for use with layered dxf files typically used in the PC-MEMS, and SCM laminate robots process. These functions aid in staging laser cut files for rapid design and manufacturing.
+pellaeon/tinyspline-dxf|https://github.com/pellaeon/tinyspline-dxf|
+makerslocal/dxf-fixer|https://github.com/makerslocal/dxf-fixer|Ugly server to fix DXF files for the large laser cutter
+BayanBennett/angular-dxf|https://github.com/BayanBennett/angular-dxf|angular module for importing DXF files into a json object.
+wsaul/pacs-override-models|https://github.com/wsaul/pacs-override-models|EVO original 3D designs exported to dxf, converted to blend, cleaned up then rendered in blender. Infini-D renders and dxf exports are courtesy of Avarchillion. See the Read-me for Peter Cartwright (EVO's creator)'s comments.
+eryar/RvmTranslator|https://github.com/eryar/RvmTranslator|RvmTranslator can translate the RVM file exported by AVEVA Plant(PDMS)/AVEVA Marine(Tribon) to STEP, IGES, STL, DXF, 3D PDF, OBJ, 3DXML, IFC,.etc. 
+MrYD/DxFramework|https://github.com/MrYD/DxFramework|DXライブラリによるGUI製作のためのラッパークラス群
+DanNixon/DXF_Lib|https://github.com/DanNixon/DXF_Lib|My library of DXF parts
+akshatdhingra/4dxfitnessubscriptions|https://github.com/akshatdhingra/4dxfitnessubscriptions|
+dxfdong8016/dxf_gittest|https://github.com/dxfdong8016/dxf_gittest|test git 
+tkzx/python-dxf|https://github.com/tkzx/python-dxf|
+qingqibing/dxf_libiconv|https://github.com/qingqibing/dxf_libiconv|
+qingqibing/dxf-webgl|https://github.com/qingqibing/dxf-webgl|
+h4ck3rm1k3/TwoNickels|https://github.com/h4ck3rm1k3/TwoNickels|branch of dime contains a new dxf2osm autocad dxf file format reader and openstreemap osm output https://svn.coin3d.org/repos/dime/trunk
+MaggieJames/dxf-reader|https://github.com/MaggieJames/dxf-reader|Automatically exported from code.google.com/p/dxf-reader
+Meconer/SodickDXFCoder|https://github.com/Meconer/SodickDXFCoder|
+frabe1579/dxfirebird-docker|https://github.com/frabe1579/dxfirebird-docker|
+uwisolab/irene_dxf|https://github.com/uwisolab/irene_dxf|Tools for processing raw data files from irene
+koumingyang/AutocadDxf|https://github.com/koumingyang/AutocadDxf|
+pellaeon/dxf-webgl|https://github.com/pellaeon/dxf-webgl|Moved to https://github.com/wdv4758h/dxf-web
+Bouni/Zuendapp-DXF|https://github.com/Bouni/Zuendapp-DXF|DXF Files of the Zuendapp logo and the emblem
+froggydude/SpirographDXF|https://github.com/froggydude/SpirographDXF|My old spirograph project
+asuryawansh/dxf-translator|https://github.com/asuryawansh/dxf-translator|
+noahhl/dxf_transform|https://github.com/noahhl/dxf_transform|Basic transformations on a fairly specific class of DXFs 
+Aeium/dxf-sculpt|https://github.com/Aeium/dxf-sculpt|trying out some laser cutter stuff
+phjung1/DrawDXF|https://github.com/phjung1/DrawDXF|
+grothered/dxf_cleaning|https://github.com/grothered/dxf_cleaning|
+fullstack-dev/Xamarin_DXFreight|https://github.com/fullstack-dev/Xamarin_DXFreight|Xamarin.Android using Xamarin MVVMCross framework.
+parnikov/parcer_dxf|https://github.com/parnikov/parcer_dxf|
+liwei1024/lwDxf|https://github.com/liwei1024/lwDxf|第一次提交
+duanxiongfei-2016/dxf-vux|https://github.com/duanxiongfei-2016/dxf-vux|vux改造
+whitegreen/Export-DXF|https://github.com/whitegreen/Export-DXF|DXF exporter tailored to laser cut
+wdv4758h/dxf-web|https://github.com/wdv4758h/dxf-web|
+AlexProger/DXFD_Framework|https://github.com/AlexProger/DXFD_Framework|DirectX For Developers - framework
+wtmsuperman/DxFw|https://github.com/wtmsuperman/DxFw|Tiny framework for directx. Just for study.
+Marv51/dxf-fish|https://github.com/Marv51/dxf-fish|A JavaScript programm with the purpose of drawing 2D-dxf-Files in the Webbrowser.
+vandsh/sitecore-dxfindexer|https://github.com/vandsh/sitecore-dxfindexer|It's a demo illustrating how to setup custom DXF Pipelines, Endpoints, and Pipeline Steps and a fancy Indexing pipeline step!
+froggydude/SpirographDXF|https://github.com/froggydude/SpirographDXF|My old spirograph project
+asuryawansh/dxf-translator|https://github.com/asuryawansh/dxf-translator|
+noahhl/dxf_transform|https://github.com/noahhl/dxf_transform|Basic transformations on a fairly specific class of DXFs 
+Aeium/dxf-sculpt|https://github.com/Aeium/dxf-sculpt|trying out some laser cutter stuff
+phjung1/DrawDXF|https://github.com/phjung1/DrawDXF|
+wdv4758h/dxf-web|https://github.com/wdv4758h/dxf-web|
+AlexProger/DXFD_Framework|https://github.com/AlexProger/DXFD_Framework|DirectX For Developers - framework
+wtmsuperman/DxFw|https://github.com/wtmsuperman/DxFw|Tiny framework for directx. Just for study.
+Marv51/dxf-fish|https://github.com/Marv51/dxf-fish|A JavaScript programm with the purpose of drawing 2D-dxf-Files in the Webbrowser.
+vandsh/sitecore-dxfindexer|https://github.com/vandsh/sitecore-dxfindexer|It's a demo illustrating how to setup custom DXF Pipelines, Endpoints, and Pipeline Steps and a fancy Indexing pipeline step!
+tony467913/py_dxfwrite|https://github.com/tony467913/py_dxfwrite|dxfwrite Crystal window
+senglongyu/DXF-Creator|https://github.com/senglongyu/DXF-Creator|DXF Creator for Reflectarray Antennas
+amagicalwizard/Box_DXF|https://github.com/amagicalwizard/Box_DXF|
+ajisaacs/ExportDxf|https://github.com/ajisaacs/ExportDxf|Export sheet metal flat patterns from SolidWorks
+at8eqeq3/dxfoto.ru|https://github.com/at8eqeq3/dxfoto.ru|Website sources, Jekyll et al.
+s-monisha/python-dxf|https://github.com/s-monisha/python-dxf|
+jumpythegecko/DXF_Interpretor|https://github.com/jumpythegecko/DXF_Interpretor|
+whitegreen/Import-DXF|https://github.com/whitegreen/Import-DXF|
+Cfouria/dxf-thumbnails|https://github.com/Cfouria/dxf-thumbnails|
+YogevDavid/DXF-Analyzer|https://github.com/YogevDavid/DXF-Analyzer|
+c37-cnc/dxf.js|https://github.com/c37-cnc/dxf.js|
+martinhansdk/Flatpack|https://github.com/martinhansdk/Flatpack|An addin for Fusion 360 which provides a better way to export DXF files for laser cutting.
+ypsilon-takai/dxfoil_heroku|https://github.com/ypsilon-takai/dxfoil_heroku|dxFoil on heroku
+s-monisha/dxf-QCAD|https://github.com/s-monisha/dxf-QCAD|
+priitaun/jsDXF|https://github.com/priitaun/jsDXF|Create DXF files using Javascript
+gitpan/DXF_Parser|https://github.com/gitpan/DXF_Parser|Read-only release history for DXF_Parser
+przenz/KolkaDXF|https://github.com/przenz/KolkaDXF|Tool for plotting energy of tremors from DBF database into DXF format in form of circles.
+asuryawansh/dxf-translatorr|https://github.com/asuryawansh/dxf-translatorr|
+xxxmen/phusband-DXFLib|https://github.com/xxxmen/phusband-DXFLib|
+cremebrule/dxf_fem|https://github.com/cremebrule/dxf_fem|A Python-based FEM Program to calculate plane-stress on DXF-based geometry.
+mgibula/DxFun|https://github.com/mgibula/DxFun|
+devoxyz/VectorDXFDWGGarsing|https://github.com/devoxyz/VectorDXFDWGGarsing|Small test project parsing DWG and DXF files (CSV data + bitmap generation)
+codesyntax/cs.dxfeatured|https://github.com/codesyntax/cs.dxfeatured|
+danieljabailey/AutoDXFExtract|https://github.com/danieljabailey/AutoDXFExtract|Automatic tool for extracting each layer of an inkscape SVG as a DXF file
+blolson/HololensDXF|https://github.com/blolson/HololensDXF|
+prenex/dxf_obj|https://github.com/prenex/dxf_obj|A special kind of command line DFX-OBJ conversion utlity using dxflib
+MaXXXXfeng/DeleteDXFfile|https://github.com/MaXXXXfeng/DeleteDXFfile|用Python删除dxf文件的指定图层
+kristianpedersen/scratch-dxf|https://github.com/kristianpedersen/scratch-dxf|
+hamzahajyousef97/dxf_test|https://github.com/hamzahajyousef97/dxf_test|
+gtt142/DXF-converter|https://github.com/gtt142/DXF-converter|dxf converter for course work
+kadmosnet/DXFReader.NET|https://github.com/kadmosnet/DXFReader.NET|Code samples for DXFReader.NET Component
+Akaur/Python-scripts|https://github.com/Akaur/Python-scripts|how to make .dxf files
+marcomunizf/Attabot|https://github.com/marcomunizf/Attabot|DXF and 3D object files
+JareBear12418/DXF-to-PNG-Converter|https://github.com/JareBear12418/DXF-to-PNG-Converter|Convert DXF files to PNG
+Queue-inc/prj__dxf-renderer-py|https://github.com/Queue-inc/prj__dxf-renderer-py|DXF rendering engine using Python
+evilmog/cyphertapes|https://github.com/evilmog/cyphertapes|CypherCon v4 Tape DXF Files
+grillage/LoveLaser|https://github.com/grillage/LoveLaser|Prototyping the dxf creation software
+rewolff/inkscape|https://github.com/rewolff/inkscape|for now DXF import fixes. 
+dhirajsuvarna/JackSparrow|https://github.com/dhirajsuvarna/JackSparrow|DXF-Reader with Sample Application
+gaganjyot/pydxfread|https://github.com/gaganjyot/pydxfread|Module to parse dxf files
+guiwitz/PyMicrofluidics|https://github.com/guiwitz/PyMicrofluidics|Module for DXF microfluidics drawings
+amwaeber/pykaboo|https://github.com/amwaeber/pykaboo|A basic dxf file editor.
+pld-linux/libxaw3dxft|https://github.com/pld-linux/libxaw3dxft|Extended version of Xaw3d widgets library
+windsoul85/testgitcocos2dxflash|https://github.com/windsoul85/testgitcocos2dxflash|https://github.com/jyinkailej/Flash2Cocos2d-x.git
+dxfwangjiaqian/dxfwangjiaqian.github.io|https://github.com/dxfwangjiaqian/dxfwangjiaqian.github.io|
+codingsrls/DXF-Lenght-Calculator|https://github.com/codingsrls/DXF-Lenght-Calculator|Python script  for calculate total lenght of all entities of an DXF File.
+AlexeyBub/SDR2DXF|https://github.com/AlexeyBub/SDR2DXF|training project
+codelogos/dxf_link_library|https://github.com/codelogos/dxf_link_library|
+fitqr/bar2dxf|https://github.com/fitqr/bar2dxf|Convert barcode image to DXF format
+marinazhan/dxf-jsWriter|https://github.com/marinazhan/dxf-jsWriter|
+theDarkar/AddTextToDXFold|https://github.com/theDarkar/AddTextToDXFold|This script was made to be used in the Bachelor Thesis Manulab spring 2020, it will put a logo image and a text on a dxf-file template. Files used in this program needs to be put in the same folder as the program. For the source code Python 3.8.1 was used.
+pkonieczny007/jwDXF2|https://github.com/pkonieczny007/jwDXF2|New version of jwDXF
+RishaLaser/Electronics-Compartment-DXFs|https://github.com/RishaLaser/Electronics-Compartment-DXFs|Those are your acrylic parts for the board compartment. You need to adjust them based on your machine width :)
+johnwu130/LabVIEW-DXF-Parser|https://github.com/johnwu130/LabVIEW-DXF-Parser|A tool that parses DXF files for LabVIEW.
+Beau-T/DXF-to-JSCAD|https://github.com/Beau-T/DXF-to-JSCAD|Development for converting DXF or SVG to JSCAD
+pymint/raster_crop_2dxf|https://github.com/pymint/raster_crop_2dxf|Crops a raster image from a rectangle in a dxf file with georeferencing using gdal tools.
+OR4CL3/-Python-DXF-Ruler|https://github.com/OR4CL3/-Python-DXF-Ruler|Python script to generate a ruler 
+OldSnapo/gisclient-maps_dxfexport|https://github.com/OldSnapo/gisclient-maps_dxfexport|Gisclient Maps Plugin for DXF Export
+qingqibing/dxf-geojson-converter|https://github.com/qingqibing/dxf-geojson-converter|
+KSanders7070/DXF_XML_2_SCT|https://github.com/KSanders7070/DXF_XML_2_SCT|This program is not mine (I am not sure who wrote it). It is used to convert AFCAD XML or AutoCAD DXF files to and from SCT files.
+battlesnake/dxflib-total-path-length|https://github.com/battlesnake/dxflib-total-path-length|dxflib with demo hacked to calculate total path length in DXF file
+Jimaklas/sections2dxf|https://github.com/Jimaklas/sections2dxf|Draw section data from a GRD file into a dxf
+richard-clark/DXF-to-Eagle|https://github.com/richard-clark/DXF-to-Eagle|Python utility for converting DXF files to Cadsoft EAGLE scripts.
+jotpandher/presentation-on-DXF|https://github.com/jotpandher/presentation-on-DXF|
+DXFD/DXFD.github.io|https://github.com/DXFD/DXFD.github.io|
+Drmicrosoft/Arm-robot-Dxf|https://github.com/Drmicrosoft/Arm-robot-Dxf|
+deck34/dxf_reader_viewer|https://github.com/deck34/dxf_reader_viewer|
+umluizlima/dxf-frame-generator|https://github.com/umluizlima/dxf-frame-generator|Quickly create frames for digital fabrication.
+skawaguchi/dxf-converter-ui-prototype|https://github.com/skawaguchi/dxf-converter-ui-prototype|
+pkonieczny007/027---jwDXF|https://github.com/pkonieczny007/027---jwDXF|Jaki Wymiar DXF ? Program słuzy do sprawdzania wymiarow elementów zapisanych w formacie dxf
+qingqibing/open_dxf_lib|https://github.com/qingqibing/open_dxf_lib|
+nikolay199213/TestDxfWPF|https://github.com/nikolay199213/TestDxfWPF|
+Finlod/shp2dxf|https://github.com/Finlod/shp2dxf|convert shp to dxf. made from ocad 9. unfinished because ocad 9 dont support dxf properly
+blackknifes/ID3DXFileData|https://github.com/blackknifes/ID3DXFileData|低层文件读取与自定义蒙皮动画
+pymint/survey2dxf|https://github.com/pymint/survey2dxf|Creates a dxf from a csv with surveying coordinates.
+Ni55aN/dxf-to-obj|https://github.com/Ni55aN/dxf-to-obj|
+BeyondSpace609520/Web-based-Dxf-Utility|https://github.com/BeyondSpace609520/Web-based-Dxf-Utility|
+shapeoko/flatcam|https://github.com/shapeoko/flatcam|A bare bones CAM-tool for generating gcode from 2D dxf-files written in ruby
+nathanwbrei/image2dxf|https://github.com/nathanwbrei/image2dxf|Creates a (rough) 2D CAD file, given a photo of a technical drawing
+OlegMakarenko/Path-Generator-DXF|https://github.com/OlegMakarenko/Path-Generator-DXF|Generates a path of figure from bitmap image
+atareao/nautilus-convert2dxf|https://github.com/atareao/nautilus-convert2dxf|
+xmikedanielsx/dxf-line-geojson|https://github.com/xmikedanielsx/dxf-line-geojson|This is to create a dxf file with LINE and LWPOLYLINES to GEOJSON. Big thanks to DXF-PARSER and THREE-DXF
+mattcarpenter/gist-dxfp-to-srt|https://github.com/mattcarpenter/gist-dxfp-to-srt|
+dxfg/dxfg.github.io|https://github.com/dxfg/dxfg.github.io|Github Pages for this account
+pableur/pictureToDXF|https://github.com/pableur/pictureToDXF|Photogrametrie use to create a DXF
+CraigBurden/excellon-to-dxf|https://github.com/CraigBurden/excellon-to-dxf|A basic file converter between excellon drill to DXF drawing
+qingqibing/dxf_TeighaExporter|https://github.com/qingqibing/dxf_TeighaExporter|
+lh-cmd/SvgToDxfDemo|https://github.com/lh-cmd/SvgToDxfDemo|将简单svg图片转为dxf图片demo
+RishaLaser/Electronics-Compartment-DXFs|https://github.com/RishaLaser/Electronics-Compartment-DXFs|Those are your acrylic parts for the board compartment. You need to adjust them based on your machine width :)
+johnwu130/LabVIEW-DXF-Parser|https://github.com/johnwu130/LabVIEW-DXF-Parser|A tool that parses DXF files for LabVIEW.
+Beau-T/DXF-to-JSCAD|https://github.com/Beau-T/DXF-to-JSCAD|Development for converting DXF or SVG to JSCAD
+pymint/raster_crop_2dxf|https://github.com/pymint/raster_crop_2dxf|Crops a raster image from a rectangle in a dxf file with georeferencing using gdal tools.
+OR4CL3/-Python-DXF-Ruler|https://github.com/OR4CL3/-Python-DXF-Ruler|Python script to generate a ruler 
+OldSnapo/gisclient-maps_dxfexport|https://github.com/OldSnapo/gisclient-maps_dxfexport|Gisclient Maps Plugin for DXF Export
+qingqibing/dxf-geojson-converter|https://github.com/qingqibing/dxf-geojson-converter|
+KSanders7070/DXF_XML_2_SCT|https://github.com/KSanders7070/DXF_XML_2_SCT|This program is not mine (I am not sure who wrote it). It is used to convert AFCAD XML or AutoCAD DXF files to and from SCT files.
+winnersun/QDxfParser|https://github.com/winnersun/QDxfParser|a read/write tool for Autocad dxf format file by QT
+shapeoko/flatcam|https://github.com/shapeoko/flatcam|A bare bones CAM-tool for generating gcode from 2D dxf-files written in ruby
+zdgeier/DXF-to-Gerber-Conversion|https://github.com/zdgeier/DXF-to-Gerber-Conversion|An application that converts a .dxf file to .gerber file
+fablab-neckar-alb/stl-to-dxf-convert|https://github.com/fablab-neckar-alb/stl-to-dxf-convert|
+Muenze/goDatToDxf|https://github.com/Muenze/goDatToDxf|
+MarkielFP/TxtToDxf|https://github.com/MarkielFP/TxtToDxf|Repozytorium zawierające program do konwersji pliku txt do dxf (+ formatowanie txt do tachimetru)
+LeeYonggi/ON_Yonggi-DxFramework|https://github.com/LeeYonggi/ON_Yonggi-DxFramework|자기개발 및 개발용으로 만든 DX9프레임워크 입니다.
+Lowhearth/dxf-geojson-converter|https://github.com/Lowhearth/dxf-geojson-converter|
+baptistelabat/photo2DXF|https://github.com/baptistelabat/photo2DXF|Create dxf file from photo of 2D black pieces on white background
+ttldtor/dxfeed_ui_sample|https://github.com/ttldtor/dxfeed_ui_sample|
+Murky29/VikiBot-DXF-Files|https://github.com/Murky29/VikiBot-DXF-Files|VikiBot - This is a collection of the DXF files that were designed using Fusion 360. (Inspired by TurtleBot)
+aleks-gl/QuickDxfViewer|https://github.com/aleks-gl/QuickDxfViewer|
+jonseitz/dxf-conversion-script|https://github.com/jonseitz/dxf-conversion-script|A quikie script to conver dxf ==> svg/json
+dxfgv/dxfgv.github.io|https://github.com/dxfgv/dxfgv.github.io|
+CasperGuo/dxf-web-service|https://github.com/CasperGuo/dxf-web-service|DXF and DWG import and export using cadlib 4.0
+marmotteabbas/moodle-filter-dxf|https://github.com/marmotteabbas/moodle-filter-dxf|Dxf Viewer is a simple Moodle filter wich allows to create a very basic viewer by replacing a dxf (moodle) url in an editor by a viewer of this dxf file.
+jsonmake/Net-CAD-WPF-DXFCode|https://github.com/jsonmake/Net-CAD-WPF-DXFCode|
+matztron/CLI_4_DXF|https://github.com/matztron/CLI_4_DXF|Simple DXF-files for laser cutting or CNC milling (like a simple rectangle) can be made without loading up a giant like Fusion 360, Siemens NX or similar. This CLI helps to get the job done faster!
+newcoder11223344/DxFrameworkCSharp|https://github.com/newcoder11223344/DxFrameworkCSharp|
+DXFlearning/dxflearning.github.io|https://github.com/DXFlearning/dxflearning.github.io|learning assignment
+DmitryAlCh/dxf-item-list|https://github.com/DmitryAlCh/dxf-item-list|obtaining texts from dxf files, and formin component list etc.
+timkonite/swgoh-dxfgi-datapull|https://github.com/timkonite/swgoh-dxfgi-datapull|
+alyoshin/gerbv-dxf-builded|https://github.com/alyoshin/gerbv-dxf-builded|Builded https://github.com/alyoshin/gerbv-dxf
+Boirokk/Chads-DXF-Layers|https://github.com/Boirokk/Chads-DXF-Layers|Biesse Layer Manager
+weifansc/TestDXFPropertyReader|https://github.com/weifansc/TestDXFPropertyReader|for Chenzhang
+qingqibing/dxf_libiconv-win-build|https://github.com/qingqibing/dxf_libiconv-win-build|
+akikomiyim/rosreestrXmlToDxf|https://github.com/akikomiyim/rosreestrXmlToDxf|
+ljsnail/Dxf-For-Cam|https://github.com/ljsnail/Dxf-For-Cam|change the data form dxf to cam
+yangosoft/simple-dxf-viewer|https://github.com/yangosoft/simple-dxf-viewer|Very simple dxf viewer with canvas in html5
+DanDaHahn/DXF-Structure-Example|https://github.com/DanDaHahn/DXF-Structure-Example| This repository should illustrate the structure of an dxf file
+saffiah/dxf-write-test|https://github.com/saffiah/dxf-write-test|Copied from https://github.com/ognjen-petrovic/js-dxf but added ability to create point entities
+liwei1024/DXF-2018-9-30|https://github.com/liwei1024/DXF-2018-9-30|
+adv25/Xml-To-Dxf|https://github.com/adv25/Xml-To-Dxf|Перевод кадастровых выписок из xml в dxf
+Manulab2020/AddTextToDXF|https://github.com/Manulab2020/AddTextToDXF|
+marcelgood/DxFormBindingIssue|https://github.com/marcelgood/DxFormBindingIssue|
+xlam/PTK2DXF|https://github.com/xlam/PTK2DXF|
+MakeICT/inkscape-lasercut-dxf|https://github.com/MakeICT/inkscape-lasercut-dxf|
+DXFD/DXFD.github.ip|https://github.com/DXFD/DXFD.github.ip|
+jhyun3315/MLearning_On_dxf|https://github.com/jhyun3315/MLearning_On_dxf|
+theDarkar/AddTextToDXF|https://github.com/theDarkar/AddTextToDXF|
+OpenMandrivaAssociation/xaw3dxft|https://github.com/OpenMandrivaAssociation/xaw3dxft|
+andrewjrobinson/dxf-to-kicad_mod|https://github.com/andrewjrobinson/dxf-to-kicad_mod|A script to allow design of KiCAD footprints (kicad_mod files) from regular cad programs such as LibreCAD
+mikecarlton/ttf2dxf|https://github.com/mikecarlton/ttf2dxf|Convert TrueType font to DXF format
+GreatDevelopers/text_to_dxf|https://github.com/GreatDevelopers/text_to_dxf|converts text file into dxf file.
+DanDaHahn/DXF-Structure-Example|https://github.com/DanDaHahn/DXF-Structure-Example| This repository should illustrate the structure of an dxf file
+saffiah/dxf-write-test|https://github.com/saffiah/dxf-write-test|Copied from https://github.com/ognjen-petrovic/js-dxf but added ability to create point entities
+liwei1024/DXF-2018-9-30|https://github.com/liwei1024/DXF-2018-9-30|
+adv25/Xml-To-Dxf|https://github.com/adv25/Xml-To-Dxf|Перевод кадастровых выписок из xml в dxf
+Manulab2020/AddTextToDXF|https://github.com/Manulab2020/AddTextToDXF|
+suvayu/B2DXFitters|https://github.com/suvayu/B2DXFitters|Mirror of PhysFit/B2DXFitters (LHCb)
+bryanduxbury/stl2dxf|https://github.com/bryanduxbury/stl2dxf|
+mrvolta/DIY_Microscope_DXF|https://github.com/mrvolta/DIY_Microscope_DXF|These are the DIY Microscope DXF Files to be laser cutted
+windsoul85/cocos2dxflash|https://github.com/windsoul85/cocos2dxflash|git://github.com/jyinkailej/Flash2Cocos2d-x.git
+xander316/Export-Flat-Pattern-DXF|https://github.com/xander316/Export-Flat-Pattern-DXF|Solidworks macro
+Meconer/SodickDXFCoderFX|https://github.com/Meconer/SodickDXFCoderFX|
+tastyworks/vuejs-dxfeed-demo|https://github.com/tastyworks/vuejs-dxfeed-demo|
+gorogara/Dxflib_VS2017|https://github.com/gorogara/Dxflib_VS2017|VS2017 Solution to build a Dxflib
+udayan-114/Robotics_HAND_DXF_file|https://github.com/udayan-114/Robotics_HAND_DXF_file|
+ttldtor/dxfeed_amibroker_plugin|https://github.com/ttldtor/dxfeed_amibroker_plugin|dxFeed AmiBroker plugin
+be5invis/DxFontPreview|https://github.com/be5invis/DxFontPreview|
+ikeamanual/slotTestDxf|https://github.com/ikeamanual/slotTestDxf|Node script which generates a dxf file to laser cut 2 pieces to test optimal slot width
+MartinLevine91/FCStd2DXF|https://github.com/MartinLevine91/FCStd2DXF|A program written by Nick Levine to extract drawings for the XY plane of a FCStd file and output them as DXFs
+xc-racer99/canvec_shp2dxf|https://github.com/xc-racer99/canvec_shp2dxf|A tool for converting Canada's GeoSpatial data (http://geogratis.gc.ca/site/eng/extraction) into DXF files with CRT files OpenOrienteering Mapper
+katriniya/convert_dxf_to_obj|https://github.com/katriniya/convert_dxf_to_obj|
+iceblu3710/lw.dxf-parser|https://github.com/iceblu3710/lw.dxf-parser|
+gillesgg/DxFontFallback|https://github.com/gillesgg/DxFontFallback|
+g105b/db2dxf|https://github.com/g105b/db2dxf|
+LCanceled/DxFramework10|https://github.com/LCanceled/DxFramework10|
+pld-linux/dwg2dxf|https://github.com/pld-linux/dwg2dxf|Command line converter for *.dwg files into *.dxf
+GreatDevelopers/text2dxf|https://github.com/GreatDevelopers/text2dxf|Creating Engineering Drawing from text file
+Team4618/DXF-Fixer-Upper|https://github.com/Team4618/DXF-Fixer-Upper|
+onissan/dxf_to_kicad_mod|https://github.com/onissan/dxf_to_kicad_mod|Script that helps with generating kicad footprint from dxf file created from CAD sketch
+NacParab/img_to_dxf_Python|https://github.com/NacParab/img_to_dxf_Python|This Repository contains a Python code for converting vector images to dxf (AutoCAD supported) drawings.
+Boirokk/DXF-Transfer-to-TP-File|https://github.com/Boirokk/DXF-Transfer-to-TP-File|Creates single files for nesting
+unkn007/ConvertDxfToJsonXml|https://github.com/unkn007/ConvertDxfToJsonXml|
+jarek-kolasa/text-from-excel-to-dxf|https://github.com/jarek-kolasa/text-from-excel-to-dxf|
+qingqibing/dxf_KiCad_Source22012017|https://github.com/qingqibing/dxf_KiCad_Source22012017|
+chipdipru/DXF-Export-for-SketchUp|https://github.com/chipdipru/DXF-Export-for-SketchUp|
+openhie/openhim-mediator-mcsd-dxf-sync|https://github.com/openhie/openhim-mediator-mcsd-dxf-sync|Synchronization between mCSD and DHIS2 servers
+insolor/profilebending|https://github.com/insolor/profilebending|My graduation project (2015)
+photonfactory/json-to-dxf_py_script|https://github.com/photonfactory/json-to-dxf_py_script|Python script that converts json output to dxf file
+kabircosta/SolidEdgeExportMultipleDXF|https://github.com/kabircosta/SolidEdgeExportMultipleDXF|Solid Edge Macro ST10 - Export multiple Flatten DXF
+myrrkel/NetDXFViewer-v0.1|https://github.com/myrrkel/NetDXFViewer-v0.1|
+pear-li1015/jdxf|https://github.com/pear-li1015/jdxf|java util to generate simple dxf file
+awesomebytes/etherdream_tools|https://github.com/awesomebytes/etherdream_tools|A web interface for the etherdream DAC mostly in Python and Javascript using JQuery interfacing with DXF and ILDA files to stream them
+ezekiello/Inkscape-OpenSCAD-DXF-Export|https://github.com/ezekiello/Inkscape-OpenSCAD-DXF-Export|
+citbrains/GankenKun_0_5_dxf|https://github.com/citbrains/GankenKun_0_5_dxf|
+borite/DxFrontEnd_V2|https://github.com/borite/DxFrontEnd_V2|大侠前端第二版
+Tonymac32/LaserCut-Patterns|https://github.com/Tonymac32/LaserCut-Patterns|DXF's for various lasercut components
+avtehnik/dxf-camera-to-g-code|https://github.com/avtehnik/dxf-camera-to-g-code|
+grapheneintelligentsystems/DXF_parser_for_Robotic_arm|https://github.com/grapheneintelligentsystems/DXF_parser_for_Robotic_arm|python class for Robot Operating System (ROS) to read drawings from .DXF file
+UliRehr15/sstQtDxf01Lib|https://github.com/UliRehr15/sstQtDxf01Lib|sst qt functions and classes for dxf. Convert QPainterPath to/from dxf. Edit dxf from database in table app or in drawing map app or combined.
+daffynet12100/cv2dxf69rb|https://github.com/daffynet12100/cv2dxf69rb|
+jarek-kolasa/dxf-creating-description-for-nesting|https://github.com/jarek-kolasa/dxf-creating-description-for-nesting|Creating proper description on steel plates for nesting
+codeyuer/WindowsFormsApplication1|https://github.com/codeyuer/WindowsFormsApplication1|jpg,dxf 插入到excel
+grzegorzgogolewski/PodnoszenieRzednych|https://github.com/grzegorzgogolewski/PodnoszenieRzednych|Zmiana wysokości punktów w plikach DXF
+claeis/av2geobau|https://github.com/claeis/av2geobau|maps ITF-DM01 to DXF-GEOBAU
+AutoroboticaBR/Micro-Alarme|https://github.com/AutoroboticaBR/Micro-Alarme|Micro Alarme, OrCAD DXF, 31/05/2001
+souranil-de/Points-Generation|https://github.com/souranil-de/Points-Generation|Extracting points from a .dxf file
+SchusterLab/maskLib|https://github.com/SchusterLab/maskLib|dxfwrite version of dxf mask writer
+Macgyverisnotdead/2D-Parts-|https://github.com/Macgyverisnotdead/2D-Parts-|DXF parts for laser cutting-Milling-Woodworking
+chenbotao828/invisibili|https://github.com/chenbotao828/invisibili|python scripts for dxf parametric drawing
+igorgark1593/convertobjtodxf|https://github.com/igorgark1593/convertobjtodxf|Python Script to convert obj to dxf
+vishnubob/pymanteau|https://github.com/vishnubob/pymanteau|pymanteau - DXF generator for laser cut boxes
+Project-R3D/RailCore-Side-Panels-|https://github.com/Project-R3D/RailCore-Side-Panels-|DXF files for railcore side panels 
+vishnubob/pymanteau|https://github.com/vishnubob/pymanteau|pymanteau - DXF generator for laser cut boxes
+tntexplosivesltd/Stepstruder|https://github.com/tntexplosivesltd/Stepstruder|DXFs and STLs of the Stepstruder MK7
+contentkoch/speakerlinedraw|https://github.com/contentkoch/speakerlinedraw|draw speaker lines as dxf from python
+Tonymac32/Board-Geometries|https://github.com/Tonymac32/Board-Geometries|dxf files defining various board outlines
+MikhailNakhatovich/rooms_painting|https://github.com/MikhailNakhatovich/rooms_painting|Paint objects in rooms by dxf
+dxfom/mtext|https://github.com/dxfom/mtext|A low level DXF MTEXT content parser.
+dxfom/text|https://github.com/dxfom/text|A low level DXF TEXT content parser.
+pld-linux/dime|https://github.com/pld-linux/dime|DIME - DXF Import, manipulation and Export library
+rdodyk/acad_test|https://github.com/rdodyk/acad_test|testing .dxf files for version control
+Patience-lilisi/Gdal|https://github.com/Patience-lilisi/Gdal|Cad图纸转换，DXF Shp
+grzegorzgogolewski/DGN_Split_Levels|https://github.com/grzegorzgogolewski/DGN_Split_Levels|Extract DGN files from source file levels
+danst0/Box-Generator|https://github.com/danst0/Box-Generator|DXF Box Generator for CNC Boxes
+Henryw16/Gcode|https://github.com/Henryw16/Gcode|Gcode for dxf and stl files
+iyv/Convert_KPT|https://github.com/iyv/Convert_KPT|Converter KPT Rosreest to DXF file
+dfannin/projectbox-layout|https://github.com/dfannin/projectbox-layout|Python program for generating DXF (autocad) files
+dirkrossger/ReadDwg|https://github.com/dirkrossger/ReadDwg|Read Autocad dwg, dxf without opening Autocad
+andreivass/BomToDxfWinDesktopApp|https://github.com/andreivass/BomToDxfWinDesktopApp|Add Bom To Dxf Windows Desktop App
+jlebunetel/pycad|https://github.com/jlebunetel/pycad|Another python lib to write dxf
+ericman314/test-arc-bbox|https://github.com/ericman314/test-arc-bbox|Test arc bounding boxes in DXF library
+HiroshiSaeba/-cao-Bridges-LaserCut-bridge_200.dxf-|https://github.com/HiroshiSaeba/-cao-Bridges-LaserCut-bridge_200.dxf-|
+newcoder11223344/DxFC-2-sample001-Invader-thingy-|https://github.com/newcoder11223344/DxFC-2-sample001-Invader-thingy-|Sample da yo! Mada zenzen dekitenai
+mlaloux/Python-3DFACE-dxf-to-shapefile|https://github.com/mlaloux/Python-3DFACE-dxf-to-shapefile|
+FutoQ/Python-generator-for-non-circular-gears-DXF.-|https://github.com/FutoQ/Python-generator-for-non-circular-gears-DXF.-|
+uzername/MyCSharpDxfControlV2|https://github.com/uzername/MyCSharpDxfControlV2|
+luoxz-ai/MFC_CPU_render_and_dxf_file_reader|https://github.com/luoxz-ai/MFC_CPU_render_and_dxf_file_reader|MFC下，用CPU模拟的，3D渲染模型和DXF简单阅读器
+balrog-kun/ewmapa2osm|https://github.com/balrog-kun/ewmapa2osm|Converter for DXF files as exported from Polish "cadastre" maintained in EWMapa, to OSM format
+OlivierLB/PhpCreatorDXF_TimesNewRoman|https://github.com/OlivierLB/PhpCreatorDXF_TimesNewRoman|
+FundamentalEq/Extraction-of-data-from-dxf-files|https://github.com/FundamentalEq/Extraction-of-data-from-dxf-files|Winter Internship at LSI@IIIT Hyderabad
+sweet25irry/AutoCAD-DXF-to-G-code|https://github.com/sweet25irry/AutoCAD-DXF-to-G-code|A program that takes a DXF file which originally was created in AutoCAD and transforms the file in G-code using Python. The program works for : LINE, CIRCLE, POLYLINE and ARC.
+blech/dxf-contours-for-specialist-user-json|https://github.com/blech/dxf-contours-for-specialist-user-json|DXF data from gov.uk converted to GeoJSON
+gorczi/G-coder|https://github.com/gorczi/G-coder|Program changes *.dxf files into G-code used in CNC machines.
+jasondentler/Slicer2Laser|https://github.com/jasondentler/Slicer2Laser|Converts Zipped DXFs to gcode, like perhaps the output from Slicer for Fusion 360
+tacokichi5512/fdac3cf3e5e7cc36091a8dd679bd6390_DXfCB|https://github.com/tacokichi5512/fdac3cf3e5e7cc36091a8dd679bd6390_DXfCB|
+AmmoMFG/PCB-Board-Outlines|https://github.com/AmmoMFG/PCB-Board-Outlines|PCB Board Outlines in DXF format for import into E-CAD software
+keithsharp/lfp2pgsql|https://github.com/keithsharp/lfp2pgsql|Parse a Landform Panorama DXF file and output SQL create a PostGIS database table.
+AKaratayev/AutoCADConverter|https://github.com/AKaratayev/AutoCADConverter|This repository contains a AutoCAD converter module developed in Delphi 7. This converter reads all graphic objects from the document (.dxf or .dwg) and converts them to appropriate objects of converter. Also for correct working "AutoCAD 2007" should be installed on PC. Class diagram of converter is attached.
+88fabiorossi/a0e3af91c1081a651bd7bd49930c17db_DXfL7|https://github.com/88fabiorossi/a0e3af91c1081a651bd7bd49930c17db_DXfL7|
+arnholm/xcsg|https://github.com/arnholm/xcsg|XML based Constructive Solid Geometry based on carve
+umluizlima/rulers|https://github.com/umluizlima/rulers|Get the file for fabricating your own ruler!
+andywar65/pymba|https://github.com/andywar65/pymba|From CAD to VR via Django
+axelos/ALIAciklo_ALIAunu|https://github.com/axelos/ALIAciklo_ALIAunu|Plans du vélo couché encodés au format ouvert DXF
+gobgob/CDR-2020-meca|https://github.com/gobgob/CDR-2020-meca|STL and DXF files needed to build the robot
+Hoetan/FBXImporterExporterForUnity_20171115|https://github.com/Hoetan/FBXImporterExporterForUnity_20171115|Version 2017/11/15 - Unity5.6.3のシーンを最新のFBX SDK 2018.1.1(DCCTools 2017対応)を使用してスキニング対応のアニメーション付でFBX形式ファイルをランタイムにインポート（入力）とエクスポート（FBX/DAE/OBJ/DXF出力）するUnityプロジェクト（※モーションキャプチャデバイスのPerception Neuron/Kinect SDK 1.8(Kinect1)/2.0(Kinect2)/IKinema Orionにも対応＜Animatorのリターゲット機能付き＞)
+yiyungo/DisplayCadFileSample-ForWinForms|https://github.com/yiyungo/DisplayCadFileSample-ForWinForms|This sample demonstrates how you can read data from an CAD file(*.dwg, *.dxf) in your Map Suite GIS applications, and how to render it with CAD embedded style as well as a customized style. This Cad File support would work in all of the Map Suite controls such as Wpf, Web, MVC and WebApi.
+mage0r/Train_Controller|https://github.com/mage0r/Train_Controller|Code and dxf files to build a two train controller
+chibike/Blinkbox_v12_Main_CAD_FILES|https://github.com/chibike/Blinkbox_v12_Main_CAD_FILES|Contains all the necessary Dxf and Solidworks files
+bikinon/d0470|https://github.com/bikinon/d0470|FEFCO 0470 style designs produced in DXF drawing format.
+hex705/webGarden|https://github.com/hex705/webGarden|some code and dxf files for telegarden elements
+syh1007/dxreader|https://github.com/syh1007/dxreader|基于dxflib解析dxf格式文件
+martinwh99/-myMill|https://github.com/martinwh99/-myMill|_myMill is a plan (DXF) for a cnc router
+roseengineering/sontodxf|https://github.com/roseengineering/sontodxf|Export Sonnet files to DXF for import into Eagle
+apparentlymart/cadoodle|https://github.com/apparentlymart/cadoodle|Simple Python library for procedural CADding; produces DXF files
+jmpessoa/tfpdxfbridge|https://github.com/jmpessoa/tfpdxfbridge|TFPDxfWriterBridge is a DXF format writer for Free Pascal
+makermichael/250mm_Y6|https://github.com/makermichael/250mm_Y6|250mm Y6 Multicopter Frame in crv3d(Aspire), DXF and SVG. 
+floss1138/dxMagic|https://github.com/floss1138/dxMagic|Proof of concept DXF and DXX file parser
+palfrey/cube_generator|https://github.com/palfrey/cube_generator|DXF generator for making interlocking cube-based sculpture
+Szymon300101/RayCasting|https://github.com/Szymon300101/RayCasting|Let some light to your DXF drawings [Java] (PL)
+RobertoLuinetti/VectorSundial|https://github.com/RobertoLuinetti/VectorSundial|Sundial designer, produce DXF file for CAD processing
+UnitedGasketCorporation/CircleLayoutGenerator|https://github.com/UnitedGasketCorporation/CircleLayoutGenerator|Exports DXF/JPG file of a generated staggered die layout
